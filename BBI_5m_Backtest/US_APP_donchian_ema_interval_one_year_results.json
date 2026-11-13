@@ -1,0 +1,6177 @@
+{
+  "window_start": "2025-11-12",
+  "window_end": "2026-11-12",
+  "results": [
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 41,
+        "fast": 9,
+        "slow": 193,
+        "tp": 0.4507,
+        "stop": 0.041
+      },
+      "metrics": {
+        "trades": 119,
+        "win_rate_pct": 56.303,
+        "compounded_pct": 56.455,
+        "max_drawdown_pct": -14.747,
+        "sum_return_pct": 48.311
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 43,
+        "fast": 4,
+        "slow": 145,
+        "tp": 0.3501,
+        "stop": 0.2168
+      },
+      "metrics": {
+        "trades": 139,
+        "win_rate_pct": 53.237,
+        "compounded_pct": 56.082,
+        "max_drawdown_pct": -23.719,
+        "sum_return_pct": 49.034
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 46,
+        "fast": 4,
+        "slow": 173,
+        "tp": 0.0953,
+        "stop": 0.2216
+      },
+      "metrics": {
+        "trades": 136,
+        "win_rate_pct": 50.735,
+        "compounded_pct": 52.95,
+        "max_drawdown_pct": -22.227,
+        "sum_return_pct": 47.1
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 87,
+        "fast": 13,
+        "slow": 144,
+        "tp": 0.4491,
+        "stop": 0.0455
+      },
+      "metrics": {
+        "trades": 98,
+        "win_rate_pct": 57.143,
+        "compounded_pct": 50.175,
+        "max_drawdown_pct": -16.795,
+        "sum_return_pct": 43.939
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 10,
+        "fast": 20,
+        "slow": 132,
+        "tp": 0.1677,
+        "stop": 0.2022
+      },
+      "metrics": {
+        "trades": 132,
+        "win_rate_pct": 53.788,
+        "compounded_pct": 49.638,
+        "max_drawdown_pct": -24.487,
+        "sum_return_pct": 44.777
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 15,
+        "fast": 17,
+        "slow": 142,
+        "tp": 0.3581,
+        "stop": 0.1394
+      },
+      "metrics": {
+        "trades": 127,
+        "win_rate_pct": 56.693,
+        "compounded_pct": 49.534,
+        "max_drawdown_pct": -22.454,
+        "sum_return_pct": 44.568
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 5,
+        "fast": 5,
+        "slow": 152,
+        "tp": 0.2778,
+        "stop": 0.1552
+      },
+      "metrics": {
+        "trades": 178,
+        "win_rate_pct": 46.629,
+        "compounded_pct": 48.209,
+        "max_drawdown_pct": -28.568,
+        "sum_return_pct": 44.387
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 90,
+        "fast": 5,
+        "slow": 97,
+        "tp": 0.3702,
+        "stop": 0.2285
+      },
+      "metrics": {
+        "trades": 104,
+        "win_rate_pct": 56.731,
+        "compounded_pct": 47.633,
+        "max_drawdown_pct": -13.975,
+        "sum_return_pct": 42.326
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 90,
+        "fast": 13,
+        "slow": 139,
+        "tp": 0.1542,
+        "stop": 0.1325
+      },
+      "metrics": {
+        "trades": 95,
+        "win_rate_pct": 58.947,
+        "compounded_pct": 46.761,
+        "max_drawdown_pct": -16.395,
+        "sum_return_pct": 41.834
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 35,
+        "fast": 5,
+        "slow": 192,
+        "tp": 0.2156,
+        "stop": 0.1255
+      },
+      "metrics": {
+        "trades": 133,
+        "win_rate_pct": 54.135,
+        "compounded_pct": 46.517,
+        "max_drawdown_pct": -24.909,
+        "sum_return_pct": 42.376
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 49,
+        "fast": 15,
+        "slow": 183,
+        "tp": 0.1307,
+        "stop": 0.1734
+      },
+      "metrics": {
+        "trades": 110,
+        "win_rate_pct": 56.364,
+        "compounded_pct": 46.181,
+        "max_drawdown_pct": -15.594,
+        "sum_return_pct": 41.712
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 21,
+        "fast": 4,
+        "slow": 167,
+        "tp": 0.3469,
+        "stop": 0.0207
+      },
+      "metrics": {
+        "trades": 164,
+        "win_rate_pct": 45.122,
+        "compounded_pct": 46.108,
+        "max_drawdown_pct": -23.278,
+        "sum_return_pct": 41.77
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 6,
+        "fast": 17,
+        "slow": 122,
+        "tp": 0.3248,
+        "stop": 0.2086
+      },
+      "metrics": {
+        "trades": 146,
+        "win_rate_pct": 52.74,
+        "compounded_pct": 46.077,
+        "max_drawdown_pct": -24.023,
+        "sum_return_pct": 42.549
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 63,
+        "fast": 19,
+        "slow": 149,
+        "tp": 0.3777,
+        "stop": 0.0343
+      },
+      "metrics": {
+        "trades": 107,
+        "win_rate_pct": 55.14,
+        "compounded_pct": 45.785,
+        "max_drawdown_pct": -18.884,
+        "sum_return_pct": 40.911
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 52,
+        "fast": 13,
+        "slow": 138,
+        "tp": 0.1374,
+        "stop": 0.0153
+      },
+      "metrics": {
+        "trades": 129,
+        "win_rate_pct": 46.512,
+        "compounded_pct": 44.18,
+        "max_drawdown_pct": -15.674,
+        "sum_return_pct": 39.436
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 107,
+        "fast": 28,
+        "slow": 192,
+        "tp": 0.3406,
+        "stop": 0.0401
+      },
+      "metrics": {
+        "trades": 79,
+        "win_rate_pct": 60.759,
+        "compounded_pct": 43.447,
+        "max_drawdown_pct": -13.645,
+        "sum_return_pct": 38.919
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 42,
+        "fast": 26,
+        "slow": 109,
+        "tp": 0.4929,
+        "stop": 0.0377
+      },
+      "metrics": {
+        "trades": 114,
+        "win_rate_pct": 52.632,
+        "compounded_pct": 43.397,
+        "max_drawdown_pct": -19.848,
+        "sum_return_pct": 39.619
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 105,
+        "fast": 12,
+        "slow": 67,
+        "tp": 0.3297,
+        "stop": 0.0395
+      },
+      "metrics": {
+        "trades": 97,
+        "win_rate_pct": 56.701,
+        "compounded_pct": 43.335,
+        "max_drawdown_pct": -15.301,
+        "sum_return_pct": 39.02
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 31,
+        "fast": 27,
+        "slow": 139,
+        "tp": 0.1186,
+        "stop": 0.2066
+      },
+      "metrics": {
+        "trades": 113,
+        "win_rate_pct": 57.522,
+        "compounded_pct": 43.055,
+        "max_drawdown_pct": -19.276,
+        "sum_return_pct": 39.6
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 99,
+        "fast": 7,
+        "slow": 163,
+        "tp": 0.0387,
+        "stop": 0.0366
+      },
+      "metrics": {
+        "trades": 107,
+        "win_rate_pct": 57.944,
+        "compounded_pct": 42.796,
+        "max_drawdown_pct": -16.421,
+        "sum_return_pct": 38.28
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 34,
+        "fast": 28,
+        "slow": 144,
+        "tp": 0.3277,
+        "stop": 0.0204
+      },
+      "metrics": {
+        "trades": 120,
+        "win_rate_pct": 51.667,
+        "compounded_pct": 42.078,
+        "max_drawdown_pct": -15.912,
+        "sum_return_pct": 38.124
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 6,
+        "fast": 22,
+        "slow": 185,
+        "tp": 0.2321,
+        "stop": 0.1827
+      },
+      "metrics": {
+        "trades": 134,
+        "win_rate_pct": 53.731,
+        "compounded_pct": 41.973,
+        "max_drawdown_pct": -20.605,
+        "sum_return_pct": 39.736
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 10,
+        "fast": 24,
+        "slow": 132,
+        "tp": 0.1548,
+        "stop": 0.0617
+      },
+      "metrics": {
+        "trades": 130,
+        "win_rate_pct": 54.615,
+        "compounded_pct": 41.853,
+        "max_drawdown_pct": -25.47,
+        "sum_return_pct": 39.394
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 35,
+        "fast": 5,
+        "slow": 185,
+        "tp": 0.2752,
+        "stop": 0.0219
+      },
+      "metrics": {
+        "trades": 146,
+        "win_rate_pct": 47.945,
+        "compounded_pct": 41.815,
+        "max_drawdown_pct": -24.194,
+        "sum_return_pct": 38.537
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 54,
+        "fast": 26,
+        "slow": 75,
+        "tp": 0.0819,
+        "stop": 0.035
+      },
+      "metrics": {
+        "trades": 128,
+        "win_rate_pct": 52.344,
+        "compounded_pct": 41.382,
+        "max_drawdown_pct": -20.114,
+        "sum_return_pct": 38.46
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 105,
+        "fast": 4,
+        "slow": 96,
+        "tp": 0.3083,
+        "stop": 0.0731
+      },
+      "metrics": {
+        "trades": 99,
+        "win_rate_pct": 56.566,
+        "compounded_pct": 41.105,
+        "max_drawdown_pct": -14.082,
+        "sum_return_pct": 37.638
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 105,
+        "fast": 4,
+        "slow": 148,
+        "tp": 0.4115,
+        "stop": 0.1059
+      },
+      "metrics": {
+        "trades": 95,
+        "win_rate_pct": 57.895,
+        "compounded_pct": 41.065,
+        "max_drawdown_pct": -17.716,
+        "sum_return_pct": 37.825
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 96,
+        "fast": 17,
+        "slow": 112,
+        "tp": 0.1006,
+        "stop": 0.1031
+      },
+      "metrics": {
+        "trades": 98,
+        "win_rate_pct": 57.143,
+        "compounded_pct": 40.664,
+        "max_drawdown_pct": -16.359,
+        "sum_return_pct": 37.785
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 90,
+        "fast": 28,
+        "slow": 101,
+        "tp": 0.1484,
+        "stop": 0.1991
+      },
+      "metrics": {
+        "trades": 95,
+        "win_rate_pct": 55.789,
+        "compounded_pct": 40.343,
+        "max_drawdown_pct": -16.426,
+        "sum_return_pct": 37.358
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 23,
+        "fast": 8,
+        "slow": 113,
+        "tp": 0.0294,
+        "stop": 0.0877
+      },
+      "metrics": {
+        "trades": 189,
+        "win_rate_pct": 50.794,
+        "compounded_pct": 39.864,
+        "max_drawdown_pct": -24.258,
+        "sum_return_pct": 37.28
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 38,
+        "fast": 7,
+        "slow": 174,
+        "tp": 0.3452,
+        "stop": 0.0241
+      },
+      "metrics": {
+        "trades": 134,
+        "win_rate_pct": 50.0,
+        "compounded_pct": 39.743,
+        "max_drawdown_pct": -22.844,
+        "sum_return_pct": 36.967
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 8,
+        "fast": 9,
+        "slow": 96,
+        "tp": 0.3836,
+        "stop": 0.1183
+      },
+      "metrics": {
+        "trades": 180,
+        "win_rate_pct": 47.222,
+        "compounded_pct": 38.996,
+        "max_drawdown_pct": -28.099,
+        "sum_return_pct": 37.935
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 58,
+        "fast": 6,
+        "slow": 130,
+        "tp": 0.0822,
+        "stop": 0.2188
+      },
+      "metrics": {
+        "trades": 133,
+        "win_rate_pct": 51.128,
+        "compounded_pct": 38.063,
+        "max_drawdown_pct": -23.655,
+        "sum_return_pct": 36.506
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 23,
+        "fast": 29,
+        "slow": 81,
+        "tp": 0.332,
+        "stop": 0.1445
+      },
+      "metrics": {
+        "trades": 133,
+        "win_rate_pct": 51.88,
+        "compounded_pct": 37.722,
+        "max_drawdown_pct": -19.951,
+        "sum_return_pct": 36.169
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 86,
+        "fast": 24,
+        "slow": 58,
+        "tp": 0.4738,
+        "stop": 0.1342
+      },
+      "metrics": {
+        "trades": 105,
+        "win_rate_pct": 55.238,
+        "compounded_pct": 37.386,
+        "max_drawdown_pct": -17.893,
+        "sum_return_pct": 35.405
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 49,
+        "fast": 23,
+        "slow": 170,
+        "tp": 0.1934,
+        "stop": 0.2255
+      },
+      "metrics": {
+        "trades": 106,
+        "win_rate_pct": 56.604,
+        "compounded_pct": 37.241,
+        "max_drawdown_pct": -16.343,
+        "sum_return_pct": 35.411
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 90,
+        "fast": 23,
+        "slow": 134,
+        "tp": 0.104,
+        "stop": 0.2141
+      },
+      "metrics": {
+        "trades": 93,
+        "win_rate_pct": 56.989,
+        "compounded_pct": 37.142,
+        "max_drawdown_pct": -16.374,
+        "sum_return_pct": 35.256
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 81,
+        "fast": 15,
+        "slow": 52,
+        "tp": 0.142,
+        "stop": 0.0681
+      },
+      "metrics": {
+        "trades": 112,
+        "win_rate_pct": 52.679,
+        "compounded_pct": 36.988,
+        "max_drawdown_pct": -17.897,
+        "sum_return_pct": 35.33
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 45,
+        "fast": 15,
+        "slow": 106,
+        "tp": 0.3235,
+        "stop": 0.0522
+      },
+      "metrics": {
+        "trades": 129,
+        "win_rate_pct": 51.163,
+        "compounded_pct": 36.904,
+        "max_drawdown_pct": -21.559,
+        "sum_return_pct": 35.394
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 110,
+        "fast": 13,
+        "slow": 61,
+        "tp": 0.2395,
+        "stop": 0.1859
+      },
+      "metrics": {
+        "trades": 94,
+        "win_rate_pct": 57.447,
+        "compounded_pct": 34.248,
+        "max_drawdown_pct": -17.425,
+        "sum_return_pct": 32.623
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 118,
+        "fast": 22,
+        "slow": 67,
+        "tp": 0.1563,
+        "stop": 0.1463
+      },
+      "metrics": {
+        "trades": 89,
+        "win_rate_pct": 58.427,
+        "compounded_pct": 34.198,
+        "max_drawdown_pct": -17.653,
+        "sum_return_pct": 32.66
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 49,
+        "fast": 3,
+        "slow": 127,
+        "tp": 0.1167,
+        "stop": 0.0735
+      },
+      "metrics": {
+        "trades": 153,
+        "win_rate_pct": 46.405,
+        "compounded_pct": 34.074,
+        "max_drawdown_pct": -24.999,
+        "sum_return_pct": 33.815
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 89,
+        "fast": 17,
+        "slow": 195,
+        "tp": 0.1029,
+        "stop": 0.137
+      },
+      "metrics": {
+        "trades": 91,
+        "win_rate_pct": 57.143,
+        "compounded_pct": 33.739,
+        "max_drawdown_pct": -14.69,
+        "sum_return_pct": 32.729
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 119,
+        "fast": 27,
+        "slow": 100,
+        "tp": 0.3591,
+        "stop": 0.0724
+      },
+      "metrics": {
+        "trades": 87,
+        "win_rate_pct": 57.471,
+        "compounded_pct": 33.493,
+        "max_drawdown_pct": -16.79,
+        "sum_return_pct": 32.18
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 118,
+        "fast": 9,
+        "slow": 164,
+        "tp": 0.4893,
+        "stop": 0.2224
+      },
+      "metrics": {
+        "trades": 87,
+        "win_rate_pct": 59.77,
+        "compounded_pct": 33.196,
+        "max_drawdown_pct": -17.772,
+        "sum_return_pct": 32.003
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 78,
+        "fast": 11,
+        "slow": 97,
+        "tp": 0.2758,
+        "stop": 0.1466
+      },
+      "metrics": {
+        "trades": 113,
+        "win_rate_pct": 51.327,
+        "compounded_pct": 33.088,
+        "max_drawdown_pct": -19.26,
+        "sum_return_pct": 32.502
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 63,
+        "fast": 17,
+        "slow": 177,
+        "tp": 0.0402,
+        "stop": 0.1767
+      },
+      "metrics": {
+        "trades": 117,
+        "win_rate_pct": 55.556,
+        "compounded_pct": 32.668,
+        "max_drawdown_pct": -16.234,
+        "sum_return_pct": 31.335
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 120,
+        "fast": 30,
+        "slow": 179,
+        "tp": 0.1983,
+        "stop": 0.1735
+      },
+      "metrics": {
+        "trades": 80,
+        "win_rate_pct": 60.0,
+        "compounded_pct": 32.263,
+        "max_drawdown_pct": -15.571,
+        "sum_return_pct": 31.197
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 74,
+        "fast": 28,
+        "slow": 184,
+        "tp": 0.1987,
+        "stop": 0.0559
+      },
+      "metrics": {
+        "trades": 90,
+        "win_rate_pct": 56.667,
+        "compounded_pct": 31.533,
+        "max_drawdown_pct": -13.624,
+        "sum_return_pct": 30.701
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 57,
+        "fast": 25,
+        "slow": 171,
+        "tp": 0.481,
+        "stop": 0.0768
+      },
+      "metrics": {
+        "trades": 104,
+        "win_rate_pct": 53.846,
+        "compounded_pct": 31.059,
+        "max_drawdown_pct": -15.491,
+        "sum_return_pct": 30.611
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 117,
+        "fast": 12,
+        "slow": 50,
+        "tp": 0.4358,
+        "stop": 0.126
+      },
+      "metrics": {
+        "trades": 91,
+        "win_rate_pct": 57.143,
+        "compounded_pct": 30.946,
+        "max_drawdown_pct": -17.427,
+        "sum_return_pct": 29.982
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 31,
+        "fast": 9,
+        "slow": 136,
+        "tp": 0.2269,
+        "stop": 0.0161
+      },
+      "metrics": {
+        "trades": 154,
+        "win_rate_pct": 46.104,
+        "compounded_pct": 30.77,
+        "max_drawdown_pct": -19.525,
+        "sum_return_pct": 30.188
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 107,
+        "fast": 14,
+        "slow": 91,
+        "tp": 0.4748,
+        "stop": 0.0142
+      },
+      "metrics": {
+        "trades": 103,
+        "win_rate_pct": 43.689,
+        "compounded_pct": 27.516,
+        "max_drawdown_pct": -15.181,
+        "sum_return_pct": 26.644
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 18,
+        "fast": 8,
+        "slow": 69,
+        "tp": 0.4974,
+        "stop": 0.2284
+      },
+      "metrics": {
+        "trades": 186,
+        "win_rate_pct": 46.774,
+        "compounded_pct": 27.031,
+        "max_drawdown_pct": -34.359,
+        "sum_return_pct": 28.918
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 36,
+        "fast": 15,
+        "slow": 100,
+        "tp": 0.1044,
+        "stop": 0.1238
+      },
+      "metrics": {
+        "trades": 140,
+        "win_rate_pct": 48.571,
+        "compounded_pct": 26.526,
+        "max_drawdown_pct": -20.822,
+        "sum_return_pct": 27.977
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 9,
+        "fast": 3,
+        "slow": 111,
+        "tp": 0.4256,
+        "stop": 0.0287
+      },
+      "metrics": {
+        "trades": 227,
+        "win_rate_pct": 39.207,
+        "compounded_pct": 26.31,
+        "max_drawdown_pct": -32.497,
+        "sum_return_pct": 28.436
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 113,
+        "fast": 8,
+        "slow": 115,
+        "tp": 0.2007,
+        "stop": 0.0221
+      },
+      "metrics": {
+        "trades": 95,
+        "win_rate_pct": 51.579,
+        "compounded_pct": 25.898,
+        "max_drawdown_pct": -19.103,
+        "sum_return_pct": 25.769
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 45,
+        "fast": 2,
+        "slow": 107,
+        "tp": 0.4599,
+        "stop": 0.0571
+      },
+      "metrics": {
+        "trades": 169,
+        "win_rate_pct": 43.195,
+        "compounded_pct": 23.73,
+        "max_drawdown_pct": -28.325,
+        "sum_return_pct": 26.02
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 8,
+        "fast": 9,
+        "slow": 17,
+        "tp": 0.1714,
+        "stop": 0.1407
+      },
+      "metrics": {
+        "trades": 351,
+        "win_rate_pct": 39.601,
+        "compounded_pct": 22.328,
+        "max_drawdown_pct": -28.909,
+        "sum_return_pct": 25.68
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 82,
+        "fast": 2,
+        "slow": 115,
+        "tp": 0.0483,
+        "stop": 0.0633
+      },
+      "metrics": {
+        "trades": 126,
+        "win_rate_pct": 49.206,
+        "compounded_pct": 20.741,
+        "max_drawdown_pct": -21.646,
+        "sum_return_pct": 22.37
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 7,
+        "fast": 8,
+        "slow": 77,
+        "tp": 0.2566,
+        "stop": 0.1641
+      },
+      "metrics": {
+        "trades": 201,
+        "win_rate_pct": 45.771,
+        "compounded_pct": 20.566,
+        "max_drawdown_pct": -34.4,
+        "sum_return_pct": 24.11
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 59,
+        "fast": 12,
+        "slow": 95,
+        "tp": 0.4876,
+        "stop": 0.0834
+      },
+      "metrics": {
+        "trades": 133,
+        "win_rate_pct": 48.12,
+        "compounded_pct": 18.701,
+        "max_drawdown_pct": -25.322,
+        "sum_return_pct": 21.368
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 96,
+        "fast": 5,
+        "slow": 29,
+        "tp": 0.281,
+        "stop": 0.0448
+      },
+      "metrics": {
+        "trades": 108,
+        "win_rate_pct": 48.148,
+        "compounded_pct": 18.378,
+        "max_drawdown_pct": -18.09,
+        "sum_return_pct": 19.692
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 75,
+        "fast": 6,
+        "slow": 52,
+        "tp": 0.2467,
+        "stop": 0.0118
+      },
+      "metrics": {
+        "trades": 143,
+        "win_rate_pct": 37.063,
+        "compounded_pct": 18.222,
+        "max_drawdown_pct": -18.109,
+        "sum_return_pct": 19.645
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 60,
+        "fast": 4,
+        "slow": 61,
+        "tp": 0.3364,
+        "stop": 0.1443
+      },
+      "metrics": {
+        "trades": 151,
+        "win_rate_pct": 45.033,
+        "compounded_pct": 15.99,
+        "max_drawdown_pct": -33.612,
+        "sum_return_pct": 19.248
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 74,
+        "fast": 2,
+        "slow": 37,
+        "tp": 0.3189,
+        "stop": 0.0885
+      },
+      "metrics": {
+        "trades": 132,
+        "win_rate_pct": 43.939,
+        "compounded_pct": 14.476,
+        "max_drawdown_pct": -19.325,
+        "sum_return_pct": 17.098
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 38,
+        "fast": 19,
+        "slow": 24,
+        "tp": 0.4291,
+        "stop": 0.1065
+      },
+      "metrics": {
+        "trades": 191,
+        "win_rate_pct": 46.597,
+        "compounded_pct": 12.99,
+        "max_drawdown_pct": -36.127,
+        "sum_return_pct": 16.917
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 21,
+        "fast": 19,
+        "slow": 31,
+        "tp": 0.4149,
+        "stop": 0.111
+      },
+      "metrics": {
+        "trades": 197,
+        "win_rate_pct": 43.655,
+        "compounded_pct": 10.704,
+        "max_drawdown_pct": -33.722,
+        "sum_return_pct": 14.91
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 23,
+        "fast": 15,
+        "slow": 18,
+        "tp": 0.258,
+        "stop": 0.2457
+      },
+      "metrics": {
+        "trades": 246,
+        "win_rate_pct": 43.496,
+        "compounded_pct": 8.762,
+        "max_drawdown_pct": -35.312,
+        "sum_return_pct": 13.272
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 77,
+        "fast": 16,
+        "slow": 23,
+        "tp": 0.2542,
+        "stop": 0.0244
+      },
+      "metrics": {
+        "trades": 128,
+        "win_rate_pct": 42.969,
+        "compounded_pct": 7.463,
+        "max_drawdown_pct": -21.684,
+        "sum_return_pct": 10.646
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 11,
+        "fast": 22,
+        "slow": 30,
+        "tp": 0.2508,
+        "stop": 0.1733
+      },
+      "metrics": {
+        "trades": 212,
+        "win_rate_pct": 45.283,
+        "compounded_pct": 7.405,
+        "max_drawdown_pct": -36.673,
+        "sum_return_pct": 12.23
+      }
+    },
+    {
+      "interval_min": 5,
+      "params": {
+        "lookback": 62,
+        "fast": 18,
+        "slow": 32,
+        "tp": 0.1821,
+        "stop": 0.162
+      },
+      "metrics": {
+        "trades": 147,
+        "win_rate_pct": 43.537,
+        "compounded_pct": 3.968,
+        "max_drawdown_pct": -35.424,
+        "sum_return_pct": 8.087
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 33,
+        "fast": 17,
+        "slow": 26,
+        "tp": 0.0274,
+        "stop": 0.1324
+      },
+      "metrics": {
+        "trades": 129,
+        "win_rate_pct": 54.264,
+        "compounded_pct": 57.775,
+        "max_drawdown_pct": -17.136,
+        "sum_return_pct": 48.229
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 40,
+        "fast": 11,
+        "slow": 50,
+        "tp": 0.3282,
+        "stop": 0.1385
+      },
+      "metrics": {
+        "trades": 97,
+        "win_rate_pct": 56.701,
+        "compounded_pct": 55.183,
+        "max_drawdown_pct": -15.003,
+        "sum_return_pct": 46.832
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 11,
+        "fast": 2,
+        "slow": 97,
+        "tp": 0.4353,
+        "stop": 0.1414
+      },
+      "metrics": {
+        "trades": 138,
+        "win_rate_pct": 50.0,
+        "compounded_pct": 54.486,
+        "max_drawdown_pct": -20.726,
+        "sum_return_pct": 46.933
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 22,
+        "fast": 27,
+        "slow": 55,
+        "tp": 0.2701,
+        "stop": 0.0611
+      },
+      "metrics": {
+        "trades": 93,
+        "win_rate_pct": 56.989,
+        "compounded_pct": 53.28,
+        "max_drawdown_pct": -15.828,
+        "sum_return_pct": 45.374
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 36,
+        "fast": 19,
+        "slow": 22,
+        "tp": 0.2762,
+        "stop": 0.1589
+      },
+      "metrics": {
+        "trades": 105,
+        "win_rate_pct": 54.286,
+        "compounded_pct": 51.455,
+        "max_drawdown_pct": -13.939,
+        "sum_return_pct": 44.746
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 25,
+        "fast": 4,
+        "slow": 171,
+        "tp": 0.4455,
+        "stop": 0.1227
+      },
+      "metrics": {
+        "trades": 95,
+        "win_rate_pct": 52.632,
+        "compounded_pct": 50.994,
+        "max_drawdown_pct": -13.84,
+        "sum_return_pct": 43.929
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 29,
+        "fast": 13,
+        "slow": 32,
+        "tp": 0.4578,
+        "stop": 0.0628
+      },
+      "metrics": {
+        "trades": 116,
+        "win_rate_pct": 51.724,
+        "compounded_pct": 49.594,
+        "max_drawdown_pct": -16.72,
+        "sum_return_pct": 43.65
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 47,
+        "fast": 20,
+        "slow": 54,
+        "tp": 0.1774,
+        "stop": 0.0988
+      },
+      "metrics": {
+        "trades": 87,
+        "win_rate_pct": 59.77,
+        "compounded_pct": 46.444,
+        "max_drawdown_pct": -13.558,
+        "sum_return_pct": 40.771
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 11,
+        "fast": 13,
+        "slow": 125,
+        "tp": 0.2362,
+        "stop": 0.1548
+      },
+      "metrics": {
+        "trades": 100,
+        "win_rate_pct": 57.0,
+        "compounded_pct": 45.496,
+        "max_drawdown_pct": -12.58,
+        "sum_return_pct": 40.348
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 65,
+        "fast": 26,
+        "slow": 49,
+        "tp": 0.3682,
+        "stop": 0.1547
+      },
+      "metrics": {
+        "trades": 76,
+        "win_rate_pct": 63.158,
+        "compounded_pct": 44.966,
+        "max_drawdown_pct": -13.541,
+        "sum_return_pct": 39.461
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 34,
+        "fast": 21,
+        "slow": 33,
+        "tp": 0.355,
+        "stop": 0.095
+      },
+      "metrics": {
+        "trades": 104,
+        "win_rate_pct": 53.846,
+        "compounded_pct": 44.794,
+        "max_drawdown_pct": -12.978,
+        "sum_return_pct": 39.921
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 55,
+        "fast": 2,
+        "slow": 140,
+        "tp": 0.3073,
+        "stop": 0.1208
+      },
+      "metrics": {
+        "trades": 82,
+        "win_rate_pct": 58.537,
+        "compounded_pct": 43.52,
+        "max_drawdown_pct": -14.496,
+        "sum_return_pct": 38.499
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 65,
+        "fast": 3,
+        "slow": 110,
+        "tp": 0.0388,
+        "stop": 0.1584
+      },
+      "metrics": {
+        "trades": 87,
+        "win_rate_pct": 63.218,
+        "compounded_pct": 43.296,
+        "max_drawdown_pct": -9.568,
+        "sum_return_pct": 37.951
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 66,
+        "fast": 28,
+        "slow": 59,
+        "tp": 0.3086,
+        "stop": 0.1218
+      },
+      "metrics": {
+        "trades": 74,
+        "win_rate_pct": 63.514,
+        "compounded_pct": 41.927,
+        "max_drawdown_pct": -12.526,
+        "sum_return_pct": 37.462
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 32,
+        "fast": 3,
+        "slow": 176,
+        "tp": 0.4618,
+        "stop": 0.0816
+      },
+      "metrics": {
+        "trades": 90,
+        "win_rate_pct": 53.333,
+        "compounded_pct": 41.728,
+        "max_drawdown_pct": -15.997,
+        "sum_return_pct": 37.597
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 19,
+        "fast": 11,
+        "slow": 175,
+        "tp": 0.0729,
+        "stop": 0.1108
+      },
+      "metrics": {
+        "trades": 93,
+        "win_rate_pct": 51.613,
+        "compounded_pct": 41.667,
+        "max_drawdown_pct": -12.074,
+        "sum_return_pct": 37.746
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 30,
+        "fast": 25,
+        "slow": 33,
+        "tp": 0.192,
+        "stop": 0.2314
+      },
+      "metrics": {
+        "trades": 105,
+        "win_rate_pct": 52.381,
+        "compounded_pct": 41.548,
+        "max_drawdown_pct": -14.622,
+        "sum_return_pct": 37.622
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 36,
+        "fast": 4,
+        "slow": 186,
+        "tp": 0.0961,
+        "stop": 0.1587
+      },
+      "metrics": {
+        "trades": 80,
+        "win_rate_pct": 55.0,
+        "compounded_pct": 40.794,
+        "max_drawdown_pct": -11.783,
+        "sum_return_pct": 36.668
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 56,
+        "fast": 7,
+        "slow": 140,
+        "tp": 0.4179,
+        "stop": 0.0566
+      },
+      "metrics": {
+        "trades": 74,
+        "win_rate_pct": 60.811,
+        "compounded_pct": 38.976,
+        "max_drawdown_pct": -14.76,
+        "sum_return_pct": 35.06
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 98,
+        "fast": 2,
+        "slow": 53,
+        "tp": 0.2825,
+        "stop": 0.1378
+      },
+      "metrics": {
+        "trades": 62,
+        "win_rate_pct": 62.903,
+        "compounded_pct": 38.143,
+        "max_drawdown_pct": -10.236,
+        "sum_return_pct": 34.226
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 39,
+        "fast": 19,
+        "slow": 23,
+        "tp": 0.2897,
+        "stop": 0.016
+      },
+      "metrics": {
+        "trades": 107,
+        "win_rate_pct": 44.86,
+        "compounded_pct": 38.12,
+        "max_drawdown_pct": -13.215,
+        "sum_return_pct": 34.842
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 55,
+        "fast": 18,
+        "slow": 85,
+        "tp": 0.1358,
+        "stop": 0.0902
+      },
+      "metrics": {
+        "trades": 77,
+        "win_rate_pct": 61.039,
+        "compounded_pct": 37.345,
+        "max_drawdown_pct": -12.562,
+        "sum_return_pct": 34.242
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 91,
+        "fast": 2,
+        "slow": 122,
+        "tp": 0.2054,
+        "stop": 0.0714
+      },
+      "metrics": {
+        "trades": 63,
+        "win_rate_pct": 63.492,
+        "compounded_pct": 36.548,
+        "max_drawdown_pct": -11.593,
+        "sum_return_pct": 33.182
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 76,
+        "fast": 19,
+        "slow": 68,
+        "tp": 0.4562,
+        "stop": 0.1218
+      },
+      "metrics": {
+        "trades": 72,
+        "win_rate_pct": 63.889,
+        "compounded_pct": 35.837,
+        "max_drawdown_pct": -13.644,
+        "sum_return_pct": 33.05
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 38,
+        "fast": 13,
+        "slow": 64,
+        "tp": 0.3784,
+        "stop": 0.2167
+      },
+      "metrics": {
+        "trades": 95,
+        "win_rate_pct": 54.737,
+        "compounded_pct": 35.74,
+        "max_drawdown_pct": -15.325,
+        "sum_return_pct": 33.406
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 74,
+        "fast": 12,
+        "slow": 16,
+        "tp": 0.3967,
+        "stop": 0.1017
+      },
+      "metrics": {
+        "trades": 78,
+        "win_rate_pct": 58.974,
+        "compounded_pct": 35.258,
+        "max_drawdown_pct": -12.131,
+        "sum_return_pct": 32.287
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 105,
+        "fast": 5,
+        "slow": 40,
+        "tp": 0.3765,
+        "stop": 0.07
+      },
+      "metrics": {
+        "trades": 60,
+        "win_rate_pct": 63.333,
+        "compounded_pct": 34.242,
+        "max_drawdown_pct": -10.616,
+        "sum_return_pct": 31.401
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 96,
+        "fast": 2,
+        "slow": 94,
+        "tp": 0.3682,
+        "stop": 0.1964
+      },
+      "metrics": {
+        "trades": 62,
+        "win_rate_pct": 62.903,
+        "compounded_pct": 33.944,
+        "max_drawdown_pct": -11.533,
+        "sum_return_pct": 31.313
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 56,
+        "fast": 11,
+        "slow": 182,
+        "tp": 0.3867,
+        "stop": 0.23
+      },
+      "metrics": {
+        "trades": 67,
+        "win_rate_pct": 61.194,
+        "compounded_pct": 33.761,
+        "max_drawdown_pct": -11.505,
+        "sum_return_pct": 31.223
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 94,
+        "fast": 4,
+        "slow": 198,
+        "tp": 0.2175,
+        "stop": 0.2051
+      },
+      "metrics": {
+        "trades": 60,
+        "win_rate_pct": 61.667,
+        "compounded_pct": 33.231,
+        "max_drawdown_pct": -10.89,
+        "sum_return_pct": 30.57
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 24,
+        "fast": 12,
+        "slow": 132,
+        "tp": 0.0376,
+        "stop": 0.1602
+      },
+      "metrics": {
+        "trades": 98,
+        "win_rate_pct": 55.102,
+        "compounded_pct": 32.854,
+        "max_drawdown_pct": -9.271,
+        "sum_return_pct": 30.697
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 81,
+        "fast": 24,
+        "slow": 48,
+        "tp": 0.4856,
+        "stop": 0.0828
+      },
+      "metrics": {
+        "trades": 68,
+        "win_rate_pct": 61.765,
+        "compounded_pct": 32.728,
+        "max_drawdown_pct": -14.482,
+        "sum_return_pct": 30.566
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 63,
+        "fast": 22,
+        "slow": 100,
+        "tp": 0.2565,
+        "stop": 0.0831
+      },
+      "metrics": {
+        "trades": 69,
+        "win_rate_pct": 60.87,
+        "compounded_pct": 32.022,
+        "max_drawdown_pct": -13.605,
+        "sum_return_pct": 30.102
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 76,
+        "fast": 17,
+        "slow": 131,
+        "tp": 0.2609,
+        "stop": 0.1658
+      },
+      "metrics": {
+        "trades": 64,
+        "win_rate_pct": 64.062,
+        "compounded_pct": 31.203,
+        "max_drawdown_pct": -11.259,
+        "sum_return_pct": 29.374
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 120,
+        "fast": 6,
+        "slow": 156,
+        "tp": 0.0257,
+        "stop": 0.1773
+      },
+      "metrics": {
+        "trades": 67,
+        "win_rate_pct": 65.672,
+        "compounded_pct": 31.075,
+        "max_drawdown_pct": -12.284,
+        "sum_return_pct": 28.781
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 75,
+        "fast": 15,
+        "slow": 135,
+        "tp": 0.0638,
+        "stop": 0.2291
+      },
+      "metrics": {
+        "trades": 67,
+        "win_rate_pct": 62.687,
+        "compounded_pct": 30.885,
+        "max_drawdown_pct": -11.505,
+        "sum_return_pct": 29.362
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 88,
+        "fast": 23,
+        "slow": 183,
+        "tp": 0.0256,
+        "stop": 0.1248
+      },
+      "metrics": {
+        "trades": 68,
+        "win_rate_pct": 60.294,
+        "compounded_pct": 30.124,
+        "max_drawdown_pct": -12.258,
+        "sum_return_pct": 28.172
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 85,
+        "fast": 23,
+        "slow": 85,
+        "tp": 0.1838,
+        "stop": 0.2431
+      },
+      "metrics": {
+        "trades": 64,
+        "win_rate_pct": 62.5,
+        "compounded_pct": 30.121,
+        "max_drawdown_pct": -12.815,
+        "sum_return_pct": 28.615
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 81,
+        "fast": 23,
+        "slow": 94,
+        "tp": 0.1101,
+        "stop": 0.1743
+      },
+      "metrics": {
+        "trades": 64,
+        "win_rate_pct": 60.938,
+        "compounded_pct": 29.688,
+        "max_drawdown_pct": -12.94,
+        "sum_return_pct": 28.235
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 113,
+        "fast": 4,
+        "slow": 191,
+        "tp": 0.4215,
+        "stop": 0.2349
+      },
+      "metrics": {
+        "trades": 57,
+        "win_rate_pct": 61.404,
+        "compounded_pct": 29.625,
+        "max_drawdown_pct": -11.196,
+        "sum_return_pct": 27.813
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 112,
+        "fast": 26,
+        "slow": 69,
+        "tp": 0.449,
+        "stop": 0.0484
+      },
+      "metrics": {
+        "trades": 57,
+        "win_rate_pct": 61.404,
+        "compounded_pct": 29.481,
+        "max_drawdown_pct": -11.011,
+        "sum_return_pct": 27.821
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 116,
+        "fast": 7,
+        "slow": 147,
+        "tp": 0.3979,
+        "stop": 0.1484
+      },
+      "metrics": {
+        "trades": 56,
+        "win_rate_pct": 62.5,
+        "compounded_pct": 28.84,
+        "max_drawdown_pct": -11.383,
+        "sum_return_pct": 27.35
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 41,
+        "fast": 22,
+        "slow": 123,
+        "tp": 0.0706,
+        "stop": 0.206
+      },
+      "metrics": {
+        "trades": 72,
+        "win_rate_pct": 55.556,
+        "compounded_pct": 28.563,
+        "max_drawdown_pct": -11.059,
+        "sum_return_pct": 27.786
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 33,
+        "fast": 12,
+        "slow": 166,
+        "tp": 0.4258,
+        "stop": 0.1901
+      },
+      "metrics": {
+        "trades": 78,
+        "win_rate_pct": 52.564,
+        "compounded_pct": 28.408,
+        "max_drawdown_pct": -11.397,
+        "sum_return_pct": 27.337
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 109,
+        "fast": 12,
+        "slow": 91,
+        "tp": 0.0344,
+        "stop": 0.0851
+      },
+      "metrics": {
+        "trades": 67,
+        "win_rate_pct": 65.672,
+        "compounded_pct": 28.286,
+        "max_drawdown_pct": -9.631,
+        "sum_return_pct": 26.844
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 109,
+        "fast": 6,
+        "slow": 181,
+        "tp": 0.3706,
+        "stop": 0.0983
+      },
+      "metrics": {
+        "trades": 56,
+        "win_rate_pct": 62.5,
+        "compounded_pct": 28.284,
+        "max_drawdown_pct": -11.383,
+        "sum_return_pct": 26.847
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 93,
+        "fast": 21,
+        "slow": 96,
+        "tp": 0.4049,
+        "stop": 0.114
+      },
+      "metrics": {
+        "trades": 62,
+        "win_rate_pct": 61.29,
+        "compounded_pct": 28.166,
+        "max_drawdown_pct": -12.947,
+        "sum_return_pct": 27.005
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 62,
+        "fast": 25,
+        "slow": 140,
+        "tp": 0.3544,
+        "stop": 0.0865
+      },
+      "metrics": {
+        "trades": 61,
+        "win_rate_pct": 59.016,
+        "compounded_pct": 27.943,
+        "max_drawdown_pct": -12.059,
+        "sum_return_pct": 26.69
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 30,
+        "fast": 9,
+        "slow": 152,
+        "tp": 0.2321,
+        "stop": 0.1332
+      },
+      "metrics": {
+        "trades": 86,
+        "win_rate_pct": 53.488,
+        "compounded_pct": 27.846,
+        "max_drawdown_pct": -12.142,
+        "sum_return_pct": 27.079
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 81,
+        "fast": 13,
+        "slow": 91,
+        "tp": 0.3199,
+        "stop": 0.096
+      },
+      "metrics": {
+        "trades": 68,
+        "win_rate_pct": 61.765,
+        "compounded_pct": 27.746,
+        "max_drawdown_pct": -13.52,
+        "sum_return_pct": 26.818
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 79,
+        "fast": 14,
+        "slow": 125,
+        "tp": 0.3034,
+        "stop": 0.1188
+      },
+      "metrics": {
+        "trades": 64,
+        "win_rate_pct": 60.938,
+        "compounded_pct": 27.687,
+        "max_drawdown_pct": -13.194,
+        "sum_return_pct": 26.73
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 102,
+        "fast": 12,
+        "slow": 140,
+        "tp": 0.1235,
+        "stop": 0.0461
+      },
+      "metrics": {
+        "trades": 59,
+        "win_rate_pct": 61.017,
+        "compounded_pct": 26.172,
+        "max_drawdown_pct": -11.599,
+        "sum_return_pct": 25.148
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 92,
+        "fast": 19,
+        "slow": 173,
+        "tp": 0.0652,
+        "stop": 0.1212
+      },
+      "metrics": {
+        "trades": 59,
+        "win_rate_pct": 55.932,
+        "compounded_pct": 25.997,
+        "max_drawdown_pct": -12.355,
+        "sum_return_pct": 25.286
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 99,
+        "fast": 27,
+        "slow": 168,
+        "tp": 0.4363,
+        "stop": 0.061
+      },
+      "metrics": {
+        "trades": 54,
+        "win_rate_pct": 55.556,
+        "compounded_pct": 25.758,
+        "max_drawdown_pct": -11.887,
+        "sum_return_pct": 24.711
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 56,
+        "fast": 28,
+        "slow": 86,
+        "tp": 0.4511,
+        "stop": 0.0305
+      },
+      "metrics": {
+        "trades": 72,
+        "win_rate_pct": 56.944,
+        "compounded_pct": 25.57,
+        "max_drawdown_pct": -12.106,
+        "sum_return_pct": 24.824
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 116,
+        "fast": 10,
+        "slow": 32,
+        "tp": 0.4127,
+        "stop": 0.1796
+      },
+      "metrics": {
+        "trades": 57,
+        "win_rate_pct": 61.404,
+        "compounded_pct": 25.174,
+        "max_drawdown_pct": -12.058,
+        "sum_return_pct": 24.554
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 94,
+        "fast": 25,
+        "slow": 103,
+        "tp": 0.3435,
+        "stop": 0.1916
+      },
+      "metrics": {
+        "trades": 60,
+        "win_rate_pct": 60.0,
+        "compounded_pct": 24.557,
+        "max_drawdown_pct": -13.287,
+        "sum_return_pct": 24.17
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 63,
+        "fast": 28,
+        "slow": 133,
+        "tp": 0.3137,
+        "stop": 0.0899
+      },
+      "metrics": {
+        "trades": 60,
+        "win_rate_pct": 56.667,
+        "compounded_pct": 23.154,
+        "max_drawdown_pct": -13.457,
+        "sum_return_pct": 22.9
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 120,
+        "fast": 26,
+        "slow": 144,
+        "tp": 0.4627,
+        "stop": 0.0588
+      },
+      "metrics": {
+        "trades": 52,
+        "win_rate_pct": 57.692,
+        "compounded_pct": 23.151,
+        "max_drawdown_pct": -11.983,
+        "sum_return_pct": 22.524
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 117,
+        "fast": 24,
+        "slow": 187,
+        "tp": 0.4642,
+        "stop": 0.0719
+      },
+      "metrics": {
+        "trades": 51,
+        "win_rate_pct": 56.863,
+        "compounded_pct": 22.752,
+        "max_drawdown_pct": -11.954,
+        "sum_return_pct": 22.292
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 79,
+        "fast": 24,
+        "slow": 165,
+        "tp": 0.2337,
+        "stop": 0.0418
+      },
+      "metrics": {
+        "trades": 58,
+        "win_rate_pct": 55.172,
+        "compounded_pct": 22.694,
+        "max_drawdown_pct": -11.246,
+        "sum_return_pct": 22.17
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 111,
+        "fast": 22,
+        "slow": 102,
+        "tp": 0.2962,
+        "stop": 0.0691
+      },
+      "metrics": {
+        "trades": 57,
+        "win_rate_pct": 59.649,
+        "compounded_pct": 22.622,
+        "max_drawdown_pct": -13.901,
+        "sum_return_pct": 22.492
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 109,
+        "fast": 27,
+        "slow": 179,
+        "tp": 0.1644,
+        "stop": 0.0893
+      },
+      "metrics": {
+        "trades": 50,
+        "win_rate_pct": 58.0,
+        "compounded_pct": 21.341,
+        "max_drawdown_pct": -13.748,
+        "sum_return_pct": 21.283
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 116,
+        "fast": 24,
+        "slow": 187,
+        "tp": 0.3194,
+        "stop": 0.199
+      },
+      "metrics": {
+        "trades": 51,
+        "win_rate_pct": 56.863,
+        "compounded_pct": 19.902,
+        "max_drawdown_pct": -13.998,
+        "sum_return_pct": 20.138
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 36,
+        "fast": 25,
+        "slow": 108,
+        "tp": 0.1462,
+        "stop": 0.1661
+      },
+      "metrics": {
+        "trades": 75,
+        "win_rate_pct": 56.0,
+        "compounded_pct": 19.334,
+        "max_drawdown_pct": -13.952,
+        "sum_return_pct": 20.121
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 64,
+        "fast": 20,
+        "slow": 141,
+        "tp": 0.0607,
+        "stop": 0.1333
+      },
+      "metrics": {
+        "trades": 68,
+        "win_rate_pct": 55.882,
+        "compounded_pct": 19.257,
+        "max_drawdown_pct": -11.903,
+        "sum_return_pct": 19.962
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 97,
+        "fast": 9,
+        "slow": 37,
+        "tp": 0.3325,
+        "stop": 0.0276
+      },
+      "metrics": {
+        "trades": 65,
+        "win_rate_pct": 55.385,
+        "compounded_pct": 18.587,
+        "max_drawdown_pct": -11.237,
+        "sum_return_pct": 18.947
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 6,
+        "fast": 24,
+        "slow": 115,
+        "tp": 0.4815,
+        "stop": 0.0142
+      },
+      "metrics": {
+        "trades": 141,
+        "win_rate_pct": 48.227,
+        "compounded_pct": 17.175,
+        "max_drawdown_pct": -15.498,
+        "sum_return_pct": 18.084
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 95,
+        "fast": 15,
+        "slow": 44,
+        "tp": 0.1923,
+        "stop": 0.0227
+      },
+      "metrics": {
+        "trades": 64,
+        "win_rate_pct": 51.562,
+        "compounded_pct": 14.237,
+        "max_drawdown_pct": -13.82,
+        "sum_return_pct": 15.103
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 29,
+        "fast": 8,
+        "slow": 34,
+        "tp": 0.1725,
+        "stop": 0.0172
+      },
+      "metrics": {
+        "trades": 139,
+        "win_rate_pct": 40.288,
+        "compounded_pct": 8.092,
+        "max_drawdown_pct": -21.549,
+        "sum_return_pct": 10.813
+      }
+    },
+    {
+      "interval_min": 10,
+      "params": {
+        "lookback": 78,
+        "fast": 30,
+        "slow": 112,
+        "tp": 0.1674,
+        "stop": 0.0136
+      },
+      "metrics": {
+        "trades": 73,
+        "win_rate_pct": 36.986,
+        "compounded_pct": -0.05,
+        "max_drawdown_pct": -14.801,
+        "sum_return_pct": 1.214
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 22,
+        "fast": 2,
+        "slow": 92,
+        "tp": 0.168,
+        "stop": 0.171
+      },
+      "metrics": {
+        "trades": 94,
+        "win_rate_pct": 48.936,
+        "compounded_pct": 30.592,
+        "max_drawdown_pct": -13.08,
+        "sum_return_pct": 29.457
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 33,
+        "fast": 4,
+        "slow": 36,
+        "tp": 0.2331,
+        "stop": 0.1282
+      },
+      "metrics": {
+        "trades": 86,
+        "win_rate_pct": 56.977,
+        "compounded_pct": 29.912,
+        "max_drawdown_pct": -12.719,
+        "sum_return_pct": 28.476
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 37,
+        "fast": 3,
+        "slow": 29,
+        "tp": 0.3258,
+        "stop": 0.2491
+      },
+      "metrics": {
+        "trades": 82,
+        "win_rate_pct": 56.098,
+        "compounded_pct": 29.482,
+        "max_drawdown_pct": -12.1,
+        "sum_return_pct": 27.86
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 8,
+        "fast": 11,
+        "slow": 14,
+        "tp": 0.4908,
+        "stop": 0.1058
+      },
+      "metrics": {
+        "trades": 144,
+        "win_rate_pct": 49.306,
+        "compounded_pct": 27.462,
+        "max_drawdown_pct": -23.09,
+        "sum_return_pct": 27.628
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 45,
+        "fast": 3,
+        "slow": 119,
+        "tp": 0.471,
+        "stop": 0.2246
+      },
+      "metrics": {
+        "trades": 68,
+        "win_rate_pct": 57.353,
+        "compounded_pct": 25.468,
+        "max_drawdown_pct": -11.767,
+        "sum_return_pct": 24.632
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 23,
+        "fast": 11,
+        "slow": 37,
+        "tp": 0.4178,
+        "stop": 0.2429
+      },
+      "metrics": {
+        "trades": 95,
+        "win_rate_pct": 52.632,
+        "compounded_pct": 23.167,
+        "max_drawdown_pct": -13.293,
+        "sum_return_pct": 23.388
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 28,
+        "fast": 4,
+        "slow": 145,
+        "tp": 0.2103,
+        "stop": 0.1391
+      },
+      "metrics": {
+        "trades": 67,
+        "win_rate_pct": 59.701,
+        "compounded_pct": 22.728,
+        "max_drawdown_pct": -10.903,
+        "sum_return_pct": 22.369
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 41,
+        "fast": 2,
+        "slow": 53,
+        "tp": 0.0361,
+        "stop": 0.1467
+      },
+      "metrics": {
+        "trades": 88,
+        "win_rate_pct": 57.955,
+        "compounded_pct": 22.137,
+        "max_drawdown_pct": -11.061,
+        "sum_return_pct": 21.895
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 43,
+        "fast": 8,
+        "slow": 151,
+        "tp": 0.0204,
+        "stop": 0.1436
+      },
+      "metrics": {
+        "trades": 76,
+        "win_rate_pct": 60.526,
+        "compounded_pct": 21.442,
+        "max_drawdown_pct": -13.564,
+        "sum_return_pct": 21.01
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 6,
+        "fast": 15,
+        "slow": 163,
+        "tp": 0.3546,
+        "stop": 0.1481
+      },
+      "metrics": {
+        "trades": 89,
+        "win_rate_pct": 50.562,
+        "compounded_pct": 19.933,
+        "max_drawdown_pct": -16.456,
+        "sum_return_pct": 20.609
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 40,
+        "fast": 24,
+        "slow": 38,
+        "tp": 0.099,
+        "stop": 0.1886
+      },
+      "metrics": {
+        "trades": 74,
+        "win_rate_pct": 59.459,
+        "compounded_pct": 18.197,
+        "max_drawdown_pct": -13.148,
+        "sum_return_pct": 18.921
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 58,
+        "fast": 26,
+        "slow": 173,
+        "tp": 0.0234,
+        "stop": 0.134
+      },
+      "metrics": {
+        "trades": 53,
+        "win_rate_pct": 66.038,
+        "compounded_pct": 17.609,
+        "max_drawdown_pct": -11.45,
+        "sum_return_pct": 17.722
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 36,
+        "fast": 21,
+        "slow": 69,
+        "tp": 0.0692,
+        "stop": 0.2277
+      },
+      "metrics": {
+        "trades": 65,
+        "win_rate_pct": 58.462,
+        "compounded_pct": 17.093,
+        "max_drawdown_pct": -16.098,
+        "sum_return_pct": 18.337
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 64,
+        "fast": 19,
+        "slow": 157,
+        "tp": 0.4685,
+        "stop": 0.0441
+      },
+      "metrics": {
+        "trades": 44,
+        "win_rate_pct": 59.091,
+        "compounded_pct": 15.866,
+        "max_drawdown_pct": -10.024,
+        "sum_return_pct": 16.354
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 21,
+        "fast": 21,
+        "slow": 128,
+        "tp": 0.335,
+        "stop": 0.1582
+      },
+      "metrics": {
+        "trades": 61,
+        "win_rate_pct": 52.459,
+        "compounded_pct": 15.31,
+        "max_drawdown_pct": -12.476,
+        "sum_return_pct": 16.518
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 53,
+        "fast": 5,
+        "slow": 40,
+        "tp": 0.2508,
+        "stop": 0.1502
+      },
+      "metrics": {
+        "trades": 69,
+        "win_rate_pct": 57.971,
+        "compounded_pct": 14.892,
+        "max_drawdown_pct": -12.555,
+        "sum_return_pct": 15.907
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 52,
+        "fast": 29,
+        "slow": 190,
+        "tp": 0.2865,
+        "stop": 0.0411
+      },
+      "metrics": {
+        "trades": 42,
+        "win_rate_pct": 61.905,
+        "compounded_pct": 14.777,
+        "max_drawdown_pct": -8.088,
+        "sum_return_pct": 15.217
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 23,
+        "fast": 13,
+        "slow": 84,
+        "tp": 0.1754,
+        "stop": 0.0373
+      },
+      "metrics": {
+        "trades": 76,
+        "win_rate_pct": 53.947,
+        "compounded_pct": 14.726,
+        "max_drawdown_pct": -12.935,
+        "sum_return_pct": 15.878
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 63,
+        "fast": 3,
+        "slow": 29,
+        "tp": 0.035,
+        "stop": 0.2224
+      },
+      "metrics": {
+        "trades": 68,
+        "win_rate_pct": 60.294,
+        "compounded_pct": 14.697,
+        "max_drawdown_pct": -10.616,
+        "sum_return_pct": 15.259
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 5,
+        "fast": 28,
+        "slow": 173,
+        "tp": 0.0796,
+        "stop": 0.0468
+      },
+      "metrics": {
+        "trades": 87,
+        "win_rate_pct": 51.724,
+        "compounded_pct": 14.352,
+        "max_drawdown_pct": -18.153,
+        "sum_return_pct": 15.932
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 60,
+        "fast": 3,
+        "slow": 65,
+        "tp": 0.4698,
+        "stop": 0.0624
+      },
+      "metrics": {
+        "trades": 63,
+        "win_rate_pct": 57.143,
+        "compounded_pct": 13.201,
+        "max_drawdown_pct": -12.537,
+        "sum_return_pct": 14.369
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 66,
+        "fast": 15,
+        "slow": 131,
+        "tp": 0.4852,
+        "stop": 0.0375
+      },
+      "metrics": {
+        "trades": 50,
+        "win_rate_pct": 56.0,
+        "compounded_pct": 13.094,
+        "max_drawdown_pct": -12.911,
+        "sum_return_pct": 13.905
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 15,
+        "fast": 13,
+        "slow": 123,
+        "tp": 0.11,
+        "stop": 0.197
+      },
+      "metrics": {
+        "trades": 82,
+        "win_rate_pct": 50.0,
+        "compounded_pct": 12.491,
+        "max_drawdown_pct": -15.643,
+        "sum_return_pct": 14.1
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 114,
+        "fast": 19,
+        "slow": 153,
+        "tp": 0.4591,
+        "stop": 0.1651
+      },
+      "metrics": {
+        "trades": 39,
+        "win_rate_pct": 58.974,
+        "compounded_pct": 12.084,
+        "max_drawdown_pct": -10.252,
+        "sum_return_pct": 12.862
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 58,
+        "fast": 13,
+        "slow": 30,
+        "tp": 0.2965,
+        "stop": 0.2133
+      },
+      "metrics": {
+        "trades": 64,
+        "win_rate_pct": 57.812,
+        "compounded_pct": 11.346,
+        "max_drawdown_pct": -12.745,
+        "sum_return_pct": 12.762
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 16,
+        "fast": 27,
+        "slow": 45,
+        "tp": 0.3736,
+        "stop": 0.2387
+      },
+      "metrics": {
+        "trades": 84,
+        "win_rate_pct": 52.381,
+        "compounded_pct": 11.006,
+        "max_drawdown_pct": -15.015,
+        "sum_return_pct": 12.857
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 22,
+        "fast": 26,
+        "slow": 172,
+        "tp": 0.3437,
+        "stop": 0.1139
+      },
+      "metrics": {
+        "trades": 54,
+        "win_rate_pct": 53.704,
+        "compounded_pct": 10.971,
+        "max_drawdown_pct": -13.758,
+        "sum_return_pct": 12.578
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 14,
+        "fast": 20,
+        "slow": 70,
+        "tp": 0.2306,
+        "stop": 0.0649
+      },
+      "metrics": {
+        "trades": 85,
+        "win_rate_pct": 52.941,
+        "compounded_pct": 10.893,
+        "max_drawdown_pct": -16.159,
+        "sum_return_pct": 12.747
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 57,
+        "fast": 24,
+        "slow": 184,
+        "tp": 0.1179,
+        "stop": 0.239
+      },
+      "metrics": {
+        "trades": 43,
+        "win_rate_pct": 60.465,
+        "compounded_pct": 10.787,
+        "max_drawdown_pct": -12.77,
+        "sum_return_pct": 12.001
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 117,
+        "fast": 9,
+        "slow": 188,
+        "tp": 0.3826,
+        "stop": 0.2181
+      },
+      "metrics": {
+        "trades": 40,
+        "win_rate_pct": 55.0,
+        "compounded_pct": 10.72,
+        "max_drawdown_pct": -11.341,
+        "sum_return_pct": 11.532
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 49,
+        "fast": 24,
+        "slow": 52,
+        "tp": 0.2558,
+        "stop": 0.2216
+      },
+      "metrics": {
+        "trades": 67,
+        "win_rate_pct": 59.701,
+        "compounded_pct": 10.221,
+        "max_drawdown_pct": -15.425,
+        "sum_return_pct": 11.84
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 59,
+        "fast": 27,
+        "slow": 38,
+        "tp": 0.3506,
+        "stop": 0.1501
+      },
+      "metrics": {
+        "trades": 62,
+        "win_rate_pct": 56.452,
+        "compounded_pct": 9.513,
+        "max_drawdown_pct": -12.607,
+        "sum_return_pct": 11.165
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 31,
+        "fast": 28,
+        "slow": 178,
+        "tp": 0.4363,
+        "stop": 0.0942
+      },
+      "metrics": {
+        "trades": 47,
+        "win_rate_pct": 59.574,
+        "compounded_pct": 9.363,
+        "max_drawdown_pct": -14.619,
+        "sum_return_pct": 10.738
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 39,
+        "fast": 23,
+        "slow": 76,
+        "tp": 0.2376,
+        "stop": 0.0875
+      },
+      "metrics": {
+        "trades": 61,
+        "win_rate_pct": 54.098,
+        "compounded_pct": 9.335,
+        "max_drawdown_pct": -18.418,
+        "sum_return_pct": 10.874
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 39,
+        "fast": 21,
+        "slow": 83,
+        "tp": 0.1118,
+        "stop": 0.1211
+      },
+      "metrics": {
+        "trades": 61,
+        "win_rate_pct": 54.098,
+        "compounded_pct": 9.335,
+        "max_drawdown_pct": -18.418,
+        "sum_return_pct": 10.874
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 47,
+        "fast": 15,
+        "slow": 162,
+        "tp": 0.4066,
+        "stop": 0.1265
+      },
+      "metrics": {
+        "trades": 51,
+        "win_rate_pct": 56.863,
+        "compounded_pct": 9.2,
+        "max_drawdown_pct": -14.89,
+        "sum_return_pct": 10.653
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 67,
+        "fast": 10,
+        "slow": 65,
+        "tp": 0.2512,
+        "stop": 0.0934
+      },
+      "metrics": {
+        "trades": 59,
+        "win_rate_pct": 57.627,
+        "compounded_pct": 9.19,
+        "max_drawdown_pct": -14.073,
+        "sum_return_pct": 10.812
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 50,
+        "fast": 20,
+        "slow": 70,
+        "tp": 0.3445,
+        "stop": 0.082
+      },
+      "metrics": {
+        "trades": 64,
+        "win_rate_pct": 56.25,
+        "compounded_pct": 8.85,
+        "max_drawdown_pct": -15.813,
+        "sum_return_pct": 10.609
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 36,
+        "fast": 12,
+        "slow": 104,
+        "tp": 0.1265,
+        "stop": 0.0174
+      },
+      "metrics": {
+        "trades": 69,
+        "win_rate_pct": 46.377,
+        "compounded_pct": 8.782,
+        "max_drawdown_pct": -10.658,
+        "sum_return_pct": 9.801
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 85,
+        "fast": 22,
+        "slow": 188,
+        "tp": 0.1134,
+        "stop": 0.1456
+      },
+      "metrics": {
+        "trades": 39,
+        "win_rate_pct": 58.974,
+        "compounded_pct": 8.419,
+        "max_drawdown_pct": -10.255,
+        "sum_return_pct": 9.651
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 99,
+        "fast": 12,
+        "slow": 16,
+        "tp": 0.1949,
+        "stop": 0.1954
+      },
+      "metrics": {
+        "trades": 49,
+        "win_rate_pct": 55.102,
+        "compounded_pct": 8.247,
+        "max_drawdown_pct": -15.371,
+        "sum_return_pct": 9.422
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 116,
+        "fast": 26,
+        "slow": 188,
+        "tp": 0.3525,
+        "stop": 0.1401
+      },
+      "metrics": {
+        "trades": 37,
+        "win_rate_pct": 59.459,
+        "compounded_pct": 8.24,
+        "max_drawdown_pct": -12.003,
+        "sum_return_pct": 9.455
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 116,
+        "fast": 30,
+        "slow": 106,
+        "tp": 0.4821,
+        "stop": 0.228
+      },
+      "metrics": {
+        "trades": 40,
+        "win_rate_pct": 57.5,
+        "compounded_pct": 7.724,
+        "max_drawdown_pct": -13.743,
+        "sum_return_pct": 9.016
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 109,
+        "fast": 29,
+        "slow": 103,
+        "tp": 0.1394,
+        "stop": 0.166
+      },
+      "metrics": {
+        "trades": 40,
+        "win_rate_pct": 57.5,
+        "compounded_pct": 7.603,
+        "max_drawdown_pct": -13.84,
+        "sum_return_pct": 8.906
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 31,
+        "fast": 15,
+        "slow": 47,
+        "tp": 0.1148,
+        "stop": 0.0124
+      },
+      "metrics": {
+        "trades": 89,
+        "win_rate_pct": 38.202,
+        "compounded_pct": 7.362,
+        "max_drawdown_pct": -12.907,
+        "sum_return_pct": 8.552
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 20,
+        "fast": 24,
+        "slow": 152,
+        "tp": 0.479,
+        "stop": 0.0175
+      },
+      "metrics": {
+        "trades": 65,
+        "win_rate_pct": 46.154,
+        "compounded_pct": 7.258,
+        "max_drawdown_pct": -10.66,
+        "sum_return_pct": 8.412
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 108,
+        "fast": 16,
+        "slow": 18,
+        "tp": 0.2832,
+        "stop": 0.2439
+      },
+      "metrics": {
+        "trades": 45,
+        "win_rate_pct": 55.556,
+        "compounded_pct": 7.257,
+        "max_drawdown_pct": -14.416,
+        "sum_return_pct": 8.394
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 106,
+        "fast": 16,
+        "slow": 30,
+        "tp": 0.3549,
+        "stop": 0.2379
+      },
+      "metrics": {
+        "trades": 45,
+        "win_rate_pct": 55.556,
+        "compounded_pct": 7.159,
+        "max_drawdown_pct": -14.155,
+        "sum_return_pct": 8.293
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 55,
+        "fast": 20,
+        "slow": 108,
+        "tp": 0.2214,
+        "stop": 0.0851
+      },
+      "metrics": {
+        "trades": 54,
+        "win_rate_pct": 53.704,
+        "compounded_pct": 6.922,
+        "max_drawdown_pct": -16.34,
+        "sum_return_pct": 8.545
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 81,
+        "fast": 15,
+        "slow": 180,
+        "tp": 0.2875,
+        "stop": 0.0132
+      },
+      "metrics": {
+        "trades": 50,
+        "win_rate_pct": 36.0,
+        "compounded_pct": 6.318,
+        "max_drawdown_pct": -9.656,
+        "sum_return_pct": 7.199
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 53,
+        "fast": 18,
+        "slow": 108,
+        "tp": 0.3494,
+        "stop": 0.1094
+      },
+      "metrics": {
+        "trades": 57,
+        "win_rate_pct": 52.632,
+        "compounded_pct": 5.829,
+        "max_drawdown_pct": -17.016,
+        "sum_return_pct": 7.554
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 71,
+        "fast": 17,
+        "slow": 81,
+        "tp": 0.4785,
+        "stop": 0.088
+      },
+      "metrics": {
+        "trades": 56,
+        "win_rate_pct": 53.571,
+        "compounded_pct": 5.642,
+        "max_drawdown_pct": -15.341,
+        "sum_return_pct": 7.534
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 99,
+        "fast": 16,
+        "slow": 105,
+        "tp": 0.4326,
+        "stop": 0.2465
+      },
+      "metrics": {
+        "trades": 47,
+        "win_rate_pct": 51.064,
+        "compounded_pct": 5.632,
+        "max_drawdown_pct": -16.081,
+        "sum_return_pct": 7.115
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 75,
+        "fast": 8,
+        "slow": 191,
+        "tp": 0.1858,
+        "stop": 0.2471
+      },
+      "metrics": {
+        "trades": 47,
+        "win_rate_pct": 51.064,
+        "compounded_pct": 5.358,
+        "max_drawdown_pct": -15.635,
+        "sum_return_pct": 6.928
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 102,
+        "fast": 25,
+        "slow": 34,
+        "tp": 0.3953,
+        "stop": 0.0373
+      },
+      "metrics": {
+        "trades": 49,
+        "win_rate_pct": 53.061,
+        "compounded_pct": 5.251,
+        "max_drawdown_pct": -14.341,
+        "sum_return_pct": 6.501
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 67,
+        "fast": 21,
+        "slow": 61,
+        "tp": 0.1291,
+        "stop": 0.2033
+      },
+      "metrics": {
+        "trades": 59,
+        "win_rate_pct": 55.932,
+        "compounded_pct": 5.236,
+        "max_drawdown_pct": -17.19,
+        "sum_return_pct": 7.172
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 93,
+        "fast": 3,
+        "slow": 138,
+        "tp": 0.243,
+        "stop": 0.0892
+      },
+      "metrics": {
+        "trades": 50,
+        "win_rate_pct": 54.0,
+        "compounded_pct": 5.233,
+        "max_drawdown_pct": -13.296,
+        "sum_return_pct": 6.693
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 107,
+        "fast": 19,
+        "slow": 63,
+        "tp": 0.3442,
+        "stop": 0.1072
+      },
+      "metrics": {
+        "trades": 45,
+        "win_rate_pct": 55.556,
+        "compounded_pct": 5.05,
+        "max_drawdown_pct": -15.845,
+        "sum_return_pct": 6.423
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 80,
+        "fast": 22,
+        "slow": 103,
+        "tp": 0.0889,
+        "stop": 0.046
+      },
+      "metrics": {
+        "trades": 50,
+        "win_rate_pct": 50.0,
+        "compounded_pct": 4.757,
+        "max_drawdown_pct": -17.004,
+        "sum_return_pct": 6.348
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 48,
+        "fast": 30,
+        "slow": 51,
+        "tp": 0.0346,
+        "stop": 0.1724
+      },
+      "metrics": {
+        "trades": 71,
+        "win_rate_pct": 56.338,
+        "compounded_pct": 4.59,
+        "max_drawdown_pct": -14.945,
+        "sum_return_pct": 6.406
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 97,
+        "fast": 29,
+        "slow": 176,
+        "tp": 0.4807,
+        "stop": 0.2174
+      },
+      "metrics": {
+        "trades": 39,
+        "win_rate_pct": 58.974,
+        "compounded_pct": 4.287,
+        "max_drawdown_pct": -11.369,
+        "sum_return_pct": 5.843
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 89,
+        "fast": 10,
+        "slow": 106,
+        "tp": 0.338,
+        "stop": 0.0328
+      },
+      "metrics": {
+        "trades": 52,
+        "win_rate_pct": 50.0,
+        "compounded_pct": 4.2,
+        "max_drawdown_pct": -14.889,
+        "sum_return_pct": 5.59
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 102,
+        "fast": 20,
+        "slow": 98,
+        "tp": 0.1215,
+        "stop": 0.0421
+      },
+      "metrics": {
+        "trades": 47,
+        "win_rate_pct": 48.936,
+        "compounded_pct": 3.603,
+        "max_drawdown_pct": -14.841,
+        "sum_return_pct": 4.939
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 42,
+        "fast": 24,
+        "slow": 98,
+        "tp": 0.1066,
+        "stop": 0.2208
+      },
+      "metrics": {
+        "trades": 58,
+        "win_rate_pct": 53.448,
+        "compounded_pct": 2.844,
+        "max_drawdown_pct": -20.403,
+        "sum_return_pct": 4.8
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 91,
+        "fast": 10,
+        "slow": 82,
+        "tp": 0.1602,
+        "stop": 0.2039
+      },
+      "metrics": {
+        "trades": 51,
+        "win_rate_pct": 52.941,
+        "compounded_pct": 2.521,
+        "max_drawdown_pct": -15.531,
+        "sum_return_pct": 4.162
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 95,
+        "fast": 2,
+        "slow": 175,
+        "tp": 0.4342,
+        "stop": 0.1783
+      },
+      "metrics": {
+        "trades": 50,
+        "win_rate_pct": 54.0,
+        "compounded_pct": 2.482,
+        "max_drawdown_pct": -15.563,
+        "sum_return_pct": 4.09
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 93,
+        "fast": 17,
+        "slow": 51,
+        "tp": 0.3297,
+        "stop": 0.0572
+      },
+      "metrics": {
+        "trades": 50,
+        "win_rate_pct": 54.0,
+        "compounded_pct": 1.831,
+        "max_drawdown_pct": -16.099,
+        "sum_return_pct": 3.531
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 83,
+        "fast": 19,
+        "slow": 80,
+        "tp": 0.0921,
+        "stop": 0.1824
+      },
+      "metrics": {
+        "trades": 52,
+        "win_rate_pct": 50.0,
+        "compounded_pct": 1.662,
+        "max_drawdown_pct": -17.474,
+        "sum_return_pct": 3.448
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 91,
+        "fast": 14,
+        "slow": 95,
+        "tp": 0.2327,
+        "stop": 0.1671
+      },
+      "metrics": {
+        "trades": 51,
+        "win_rate_pct": 50.98,
+        "compounded_pct": 1.269,
+        "max_drawdown_pct": -16.562,
+        "sum_return_pct": 2.991
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 85,
+        "fast": 24,
+        "slow": 92,
+        "tp": 0.2485,
+        "stop": 0.1352
+      },
+      "metrics": {
+        "trades": 49,
+        "win_rate_pct": 48.98,
+        "compounded_pct": 0.852,
+        "max_drawdown_pct": -17.705,
+        "sum_return_pct": 2.62
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 119,
+        "fast": 11,
+        "slow": 113,
+        "tp": 0.4206,
+        "stop": 0.0193
+      },
+      "metrics": {
+        "trades": 46,
+        "win_rate_pct": 41.304,
+        "compounded_pct": -0.706,
+        "max_drawdown_pct": -11.559,
+        "sum_return_pct": 0.363
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 89,
+        "fast": 25,
+        "slow": 85,
+        "tp": 0.3396,
+        "stop": 0.188
+      },
+      "metrics": {
+        "trades": 50,
+        "win_rate_pct": 48.0,
+        "compounded_pct": -1.052,
+        "max_drawdown_pct": -18.474,
+        "sum_return_pct": 0.717
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 88,
+        "fast": 2,
+        "slow": 116,
+        "tp": 0.4055,
+        "stop": 0.017
+      },
+      "metrics": {
+        "trades": 56,
+        "win_rate_pct": 39.286,
+        "compounded_pct": -2.787,
+        "max_drawdown_pct": -14.227,
+        "sum_return_pct": -1.651
+      }
+    },
+    {
+      "interval_min": 15,
+      "params": {
+        "lookback": 90,
+        "fast": 6,
+        "slow": 153,
+        "tp": 0.2672,
+        "stop": 0.0205
+      },
+      "metrics": {
+        "trades": 53,
+        "win_rate_pct": 43.396,
+        "compounded_pct": -2.878,
+        "max_drawdown_pct": -15.462,
+        "sum_return_pct": -1.675
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 60,
+        "fast": 21,
+        "slow": 150,
+        "tp": 0.4554,
+        "stop": 0.151
+      },
+      "metrics": {
+        "trades": 27,
+        "win_rate_pct": 66.667,
+        "compounded_pct": 20.65,
+        "max_drawdown_pct": -6.212,
+        "sum_return_pct": 19.463
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 58,
+        "fast": 30,
+        "slow": 132,
+        "tp": 0.3397,
+        "stop": 0.243
+      },
+      "metrics": {
+        "trades": 26,
+        "win_rate_pct": 65.385,
+        "compounded_pct": 20.637,
+        "max_drawdown_pct": -6.212,
+        "sum_return_pct": 19.448
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 98,
+        "fast": 17,
+        "slow": 163,
+        "tp": 0.3283,
+        "stop": 0.0793
+      },
+      "metrics": {
+        "trades": 22,
+        "win_rate_pct": 63.636,
+        "compounded_pct": 20.472,
+        "max_drawdown_pct": -3.786,
+        "sum_return_pct": 19.203
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 94,
+        "fast": 30,
+        "slow": 169,
+        "tp": 0.3411,
+        "stop": 0.0835
+      },
+      "metrics": {
+        "trades": 19,
+        "win_rate_pct": 68.421,
+        "compounded_pct": 20.185,
+        "max_drawdown_pct": -3.786,
+        "sum_return_pct": 18.941
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 93,
+        "fast": 29,
+        "slow": 176,
+        "tp": 0.3793,
+        "stop": 0.0996
+      },
+      "metrics": {
+        "trades": 19,
+        "win_rate_pct": 68.421,
+        "compounded_pct": 20.185,
+        "max_drawdown_pct": -3.786,
+        "sum_return_pct": 18.941
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 119,
+        "fast": 24,
+        "slow": 146,
+        "tp": 0.1926,
+        "stop": 0.1317
+      },
+      "metrics": {
+        "trades": 18,
+        "win_rate_pct": 66.667,
+        "compounded_pct": 19.995,
+        "max_drawdown_pct": -3.786,
+        "sum_return_pct": 18.783
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 62,
+        "fast": 22,
+        "slow": 154,
+        "tp": 0.2009,
+        "stop": 0.0773
+      },
+      "metrics": {
+        "trades": 25,
+        "win_rate_pct": 68.0,
+        "compounded_pct": 19.71,
+        "max_drawdown_pct": -6.212,
+        "sum_return_pct": 18.657
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 94,
+        "fast": 20,
+        "slow": 177,
+        "tp": 0.0461,
+        "stop": 0.2163
+      },
+      "metrics": {
+        "trades": 21,
+        "win_rate_pct": 61.905,
+        "compounded_pct": 19.135,
+        "max_drawdown_pct": -3.786,
+        "sum_return_pct": 18.076
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 94,
+        "fast": 24,
+        "slow": 181,
+        "tp": 0.1568,
+        "stop": 0.0723
+      },
+      "metrics": {
+        "trades": 20,
+        "win_rate_pct": 65.0,
+        "compounded_pct": 19.001,
+        "max_drawdown_pct": -3.786,
+        "sum_return_pct": 17.957
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 93,
+        "fast": 15,
+        "slow": 196,
+        "tp": 0.238,
+        "stop": 0.1453
+      },
+      "metrics": {
+        "trades": 21,
+        "win_rate_pct": 66.667,
+        "compounded_pct": 18.849,
+        "max_drawdown_pct": -3.786,
+        "sum_return_pct": 17.831
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 100,
+        "fast": 14,
+        "slow": 199,
+        "tp": 0.2463,
+        "stop": 0.1428
+      },
+      "metrics": {
+        "trades": 20,
+        "win_rate_pct": 65.0,
+        "compounded_pct": 18.724,
+        "max_drawdown_pct": -3.786,
+        "sum_return_pct": 17.726
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 109,
+        "fast": 14,
+        "slow": 173,
+        "tp": 0.3829,
+        "stop": 0.0452
+      },
+      "metrics": {
+        "trades": 22,
+        "win_rate_pct": 59.091,
+        "compounded_pct": 17.993,
+        "max_drawdown_pct": -4.539,
+        "sum_return_pct": 17.195
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 11,
+        "fast": 2,
+        "slow": 146,
+        "tp": 0.0602,
+        "stop": 0.1147
+      },
+      "metrics": {
+        "trades": 56,
+        "win_rate_pct": 58.929,
+        "compounded_pct": 17.777,
+        "max_drawdown_pct": -16.311,
+        "sum_return_pct": 17.973
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 106,
+        "fast": 6,
+        "slow": 81,
+        "tp": 0.3744,
+        "stop": 0.2439
+      },
+      "metrics": {
+        "trades": 24,
+        "win_rate_pct": 66.667,
+        "compounded_pct": 17.727,
+        "max_drawdown_pct": -6.897,
+        "sum_return_pct": 17.033
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 47,
+        "fast": 24,
+        "slow": 140,
+        "tp": 0.3935,
+        "stop": 0.0649
+      },
+      "metrics": {
+        "trades": 29,
+        "win_rate_pct": 68.966,
+        "compounded_pct": 16.695,
+        "max_drawdown_pct": -6.212,
+        "sum_return_pct": 16.237
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 24,
+        "fast": 21,
+        "slow": 165,
+        "tp": 0.1581,
+        "stop": 0.182
+      },
+      "metrics": {
+        "trades": 33,
+        "win_rate_pct": 69.697,
+        "compounded_pct": 16.685,
+        "max_drawdown_pct": -7.975,
+        "sum_return_pct": 16.168
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 67,
+        "fast": 16,
+        "slow": 180,
+        "tp": 0.0767,
+        "stop": 0.1111
+      },
+      "metrics": {
+        "trades": 26,
+        "win_rate_pct": 57.692,
+        "compounded_pct": 16.303,
+        "max_drawdown_pct": -6.718,
+        "sum_return_pct": 15.77
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 108,
+        "fast": 12,
+        "slow": 156,
+        "tp": 0.1527,
+        "stop": 0.2118
+      },
+      "metrics": {
+        "trades": 23,
+        "win_rate_pct": 56.522,
+        "compounded_pct": 15.991,
+        "max_drawdown_pct": -6.131,
+        "sum_return_pct": 15.497
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 108,
+        "fast": 15,
+        "slow": 148,
+        "tp": 0.3505,
+        "stop": 0.1558
+      },
+      "metrics": {
+        "trades": 23,
+        "win_rate_pct": 56.522,
+        "compounded_pct": 15.991,
+        "max_drawdown_pct": -6.131,
+        "sum_return_pct": 15.497
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 18,
+        "fast": 27,
+        "slow": 141,
+        "tp": 0.3147,
+        "stop": 0.1767
+      },
+      "metrics": {
+        "trades": 33,
+        "win_rate_pct": 69.697,
+        "compounded_pct": 15.793,
+        "max_drawdown_pct": -7.975,
+        "sum_return_pct": 15.494
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 42,
+        "fast": 10,
+        "slow": 193,
+        "tp": 0.1391,
+        "stop": 0.0957
+      },
+      "metrics": {
+        "trades": 30,
+        "win_rate_pct": 63.333,
+        "compounded_pct": 15.188,
+        "max_drawdown_pct": -6.212,
+        "sum_return_pct": 14.876
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 24,
+        "fast": 18,
+        "slow": 173,
+        "tp": 0.111,
+        "stop": 0.1371
+      },
+      "metrics": {
+        "trades": 34,
+        "win_rate_pct": 67.647,
+        "compounded_pct": 14.462,
+        "max_drawdown_pct": -7.975,
+        "sum_return_pct": 14.274
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 115,
+        "fast": 6,
+        "slow": 108,
+        "tp": 0.4361,
+        "stop": 0.0497
+      },
+      "metrics": {
+        "trades": 23,
+        "win_rate_pct": 65.217,
+        "compounded_pct": 14.457,
+        "max_drawdown_pct": -6.897,
+        "sum_return_pct": 14.314
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 89,
+        "fast": 3,
+        "slow": 45,
+        "tp": 0.0243,
+        "stop": 0.2328
+      },
+      "metrics": {
+        "trades": 35,
+        "win_rate_pct": 65.714,
+        "compounded_pct": 14.265,
+        "max_drawdown_pct": -6.553,
+        "sum_return_pct": 14.066
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 111,
+        "fast": 3,
+        "slow": 24,
+        "tp": 0.4428,
+        "stop": 0.0685
+      },
+      "metrics": {
+        "trades": 23,
+        "win_rate_pct": 65.217,
+        "compounded_pct": 13.982,
+        "max_drawdown_pct": -6.897,
+        "sum_return_pct": 13.92
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 111,
+        "fast": 16,
+        "slow": 87,
+        "tp": 0.2001,
+        "stop": 0.0344
+      },
+      "metrics": {
+        "trades": 23,
+        "win_rate_pct": 65.217,
+        "compounded_pct": 13.933,
+        "max_drawdown_pct": -8.766,
+        "sum_return_pct": 13.803
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 119,
+        "fast": 12,
+        "slow": 161,
+        "tp": 0.1939,
+        "stop": 0.1232
+      },
+      "metrics": {
+        "trades": 21,
+        "win_rate_pct": 57.143,
+        "compounded_pct": 13.902,
+        "max_drawdown_pct": -6.131,
+        "sum_return_pct": 13.664
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 13,
+        "fast": 11,
+        "slow": 19,
+        "tp": 0.3187,
+        "stop": 0.0714
+      },
+      "metrics": {
+        "trades": 76,
+        "win_rate_pct": 59.211,
+        "compounded_pct": 13.796,
+        "max_drawdown_pct": -19.782,
+        "sum_return_pct": 14.751
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 74,
+        "fast": 14,
+        "slow": 179,
+        "tp": 0.2737,
+        "stop": 0.0552
+      },
+      "metrics": {
+        "trades": 24,
+        "win_rate_pct": 62.5,
+        "compounded_pct": 13.328,
+        "max_drawdown_pct": -9.512,
+        "sum_return_pct": 13.303
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 58,
+        "fast": 24,
+        "slow": 155,
+        "tp": 0.2052,
+        "stop": 0.021
+      },
+      "metrics": {
+        "trades": 26,
+        "win_rate_pct": 57.692,
+        "compounded_pct": 12.582,
+        "max_drawdown_pct": -4.894,
+        "sum_return_pct": 12.422
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 67,
+        "fast": 15,
+        "slow": 78,
+        "tp": 0.0252,
+        "stop": 0.0807
+      },
+      "metrics": {
+        "trades": 41,
+        "win_rate_pct": 60.976,
+        "compounded_pct": 12.054,
+        "max_drawdown_pct": -9.3,
+        "sum_return_pct": 12.414
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 110,
+        "fast": 16,
+        "slow": 136,
+        "tp": 0.3637,
+        "stop": 0.0633
+      },
+      "metrics": {
+        "trades": 23,
+        "win_rate_pct": 56.522,
+        "compounded_pct": 11.904,
+        "max_drawdown_pct": -9.636,
+        "sum_return_pct": 11.981
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 113,
+        "fast": 7,
+        "slow": 176,
+        "tp": 0.051,
+        "stop": 0.0145
+      },
+      "metrics": {
+        "trades": 25,
+        "win_rate_pct": 48.0,
+        "compounded_pct": 11.092,
+        "max_drawdown_pct": -3.785,
+        "sum_return_pct": 11.077
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 99,
+        "fast": 18,
+        "slow": 51,
+        "tp": 0.0753,
+        "stop": 0.0865
+      },
+      "metrics": {
+        "trades": 25,
+        "win_rate_pct": 64.0,
+        "compounded_pct": 10.537,
+        "max_drawdown_pct": -6.897,
+        "sum_return_pct": 10.925
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 49,
+        "fast": 10,
+        "slow": 76,
+        "tp": 0.1623,
+        "stop": 0.0538
+      },
+      "metrics": {
+        "trades": 39,
+        "win_rate_pct": 64.103,
+        "compounded_pct": 10.526,
+        "max_drawdown_pct": -11.826,
+        "sum_return_pct": 11.212
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 71,
+        "fast": 20,
+        "slow": 140,
+        "tp": 0.2591,
+        "stop": 0.0867
+      },
+      "metrics": {
+        "trades": 28,
+        "win_rate_pct": 57.143,
+        "compounded_pct": 10.524,
+        "max_drawdown_pct": -6.718,
+        "sum_return_pct": 10.81
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 100,
+        "fast": 22,
+        "slow": 66,
+        "tp": 0.4425,
+        "stop": 0.1083
+      },
+      "metrics": {
+        "trades": 25,
+        "win_rate_pct": 64.0,
+        "compounded_pct": 9.991,
+        "max_drawdown_pct": -7.137,
+        "sum_return_pct": 10.425
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 12,
+        "fast": 23,
+        "slow": 98,
+        "tp": 0.0623,
+        "stop": 0.2493
+      },
+      "metrics": {
+        "trades": 43,
+        "win_rate_pct": 60.465,
+        "compounded_pct": 9.839,
+        "max_drawdown_pct": -15.369,
+        "sum_return_pct": 10.932
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 21,
+        "fast": 4,
+        "slow": 75,
+        "tp": 0.1735,
+        "stop": 0.2182
+      },
+      "metrics": {
+        "trades": 59,
+        "win_rate_pct": 61.017,
+        "compounded_pct": 9.83,
+        "max_drawdown_pct": -17.895,
+        "sum_return_pct": 10.722
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 22,
+        "fast": 23,
+        "slow": 69,
+        "tp": 0.2457,
+        "stop": 0.1123
+      },
+      "metrics": {
+        "trades": 40,
+        "win_rate_pct": 67.5,
+        "compounded_pct": 9.74,
+        "max_drawdown_pct": -13.561,
+        "sum_return_pct": 10.471
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 75,
+        "fast": 25,
+        "slow": 49,
+        "tp": 0.201,
+        "stop": 0.1201
+      },
+      "metrics": {
+        "trades": 31,
+        "win_rate_pct": 64.516,
+        "compounded_pct": 9.339,
+        "max_drawdown_pct": -11.451,
+        "sum_return_pct": 9.951
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 50,
+        "fast": 3,
+        "slow": 64,
+        "tp": 0.0857,
+        "stop": 0.1858
+      },
+      "metrics": {
+        "trades": 47,
+        "win_rate_pct": 57.447,
+        "compounded_pct": 9.172,
+        "max_drawdown_pct": -12.541,
+        "sum_return_pct": 9.897
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 110,
+        "fast": 30,
+        "slow": 72,
+        "tp": 0.2681,
+        "stop": 0.0197
+      },
+      "metrics": {
+        "trades": 24,
+        "win_rate_pct": 50.0,
+        "compounded_pct": 8.718,
+        "max_drawdown_pct": -6.84,
+        "sum_return_pct": 8.91
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 34,
+        "fast": 15,
+        "slow": 158,
+        "tp": 0.2726,
+        "stop": 0.2488
+      },
+      "metrics": {
+        "trades": 34,
+        "win_rate_pct": 58.824,
+        "compounded_pct": 8.095,
+        "max_drawdown_pct": -9.35,
+        "sum_return_pct": 8.739
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 58,
+        "fast": 30,
+        "slow": 75,
+        "tp": 0.4033,
+        "stop": 0.229
+      },
+      "metrics": {
+        "trades": 33,
+        "win_rate_pct": 60.606,
+        "compounded_pct": 8.011,
+        "max_drawdown_pct": -9.82,
+        "sum_return_pct": 8.724
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 64,
+        "fast": 14,
+        "slow": 142,
+        "tp": 0.2974,
+        "stop": 0.1156
+      },
+      "metrics": {
+        "trades": 31,
+        "win_rate_pct": 58.065,
+        "compounded_pct": 7.515,
+        "max_drawdown_pct": -8.937,
+        "sum_return_pct": 8.172
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 90,
+        "fast": 18,
+        "slow": 96,
+        "tp": 0.4739,
+        "stop": 0.2113
+      },
+      "metrics": {
+        "trades": 28,
+        "win_rate_pct": 60.714,
+        "compounded_pct": 7.36,
+        "max_drawdown_pct": -9.934,
+        "sum_return_pct": 8.083
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 62,
+        "fast": 23,
+        "slow": 104,
+        "tp": 0.1974,
+        "stop": 0.208
+      },
+      "metrics": {
+        "trades": 31,
+        "win_rate_pct": 61.29,
+        "compounded_pct": 7.065,
+        "max_drawdown_pct": -10.839,
+        "sum_return_pct": 7.916
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 63,
+        "fast": 6,
+        "slow": 61,
+        "tp": 0.2512,
+        "stop": 0.0621
+      },
+      "metrics": {
+        "trades": 37,
+        "win_rate_pct": 59.459,
+        "compounded_pct": 7.028,
+        "max_drawdown_pct": -13.004,
+        "sum_return_pct": 7.857
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 59,
+        "fast": 25,
+        "slow": 37,
+        "tp": 0.4727,
+        "stop": 0.187
+      },
+      "metrics": {
+        "trades": 36,
+        "win_rate_pct": 61.111,
+        "compounded_pct": 6.88,
+        "max_drawdown_pct": -13.236,
+        "sum_return_pct": 7.73
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 56,
+        "fast": 28,
+        "slow": 87,
+        "tp": 0.1779,
+        "stop": 0.0319
+      },
+      "metrics": {
+        "trades": 32,
+        "win_rate_pct": 56.25,
+        "compounded_pct": 6.231,
+        "max_drawdown_pct": -10.747,
+        "sum_return_pct": 6.965
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 15,
+        "fast": 26,
+        "slow": 101,
+        "tp": 0.2561,
+        "stop": 0.2174
+      },
+      "metrics": {
+        "trades": 38,
+        "win_rate_pct": 65.789,
+        "compounded_pct": 6.024,
+        "max_drawdown_pct": -14.752,
+        "sum_return_pct": 7.074
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 26,
+        "fast": 2,
+        "slow": 95,
+        "tp": 0.1823,
+        "stop": 0.1568
+      },
+      "metrics": {
+        "trades": 56,
+        "win_rate_pct": 58.929,
+        "compounded_pct": 5.536,
+        "max_drawdown_pct": -16.178,
+        "sum_return_pct": 6.665
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 15,
+        "fast": 6,
+        "slow": 114,
+        "tp": 0.2203,
+        "stop": 0.1381
+      },
+      "metrics": {
+        "trades": 49,
+        "win_rate_pct": 63.265,
+        "compounded_pct": 5.214,
+        "max_drawdown_pct": -16.733,
+        "sum_return_pct": 6.311
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 25,
+        "fast": 19,
+        "slow": 108,
+        "tp": 0.4211,
+        "stop": 0.0808
+      },
+      "metrics": {
+        "trades": 37,
+        "win_rate_pct": 64.865,
+        "compounded_pct": 5.008,
+        "max_drawdown_pct": -13.43,
+        "sum_return_pct": 6.11
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 26,
+        "fast": 18,
+        "slow": 27,
+        "tp": 0.1929,
+        "stop": 0.242
+      },
+      "metrics": {
+        "trades": 56,
+        "win_rate_pct": 55.357,
+        "compounded_pct": 4.883,
+        "max_drawdown_pct": -18.812,
+        "sum_return_pct": 6.278
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 86,
+        "fast": 16,
+        "slow": 73,
+        "tp": 0.0845,
+        "stop": 0.237
+      },
+      "metrics": {
+        "trades": 31,
+        "win_rate_pct": 58.065,
+        "compounded_pct": 4.611,
+        "max_drawdown_pct": -11.806,
+        "sum_return_pct": 5.503
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 103,
+        "fast": 13,
+        "slow": 28,
+        "tp": 0.0429,
+        "stop": 0.0936
+      },
+      "metrics": {
+        "trades": 28,
+        "win_rate_pct": 57.143,
+        "compounded_pct": 4.575,
+        "max_drawdown_pct": -10.025,
+        "sum_return_pct": 5.398
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 84,
+        "fast": 27,
+        "slow": 79,
+        "tp": 0.1445,
+        "stop": 0.2477
+      },
+      "metrics": {
+        "trades": 30,
+        "win_rate_pct": 60.0,
+        "compounded_pct": 4.452,
+        "max_drawdown_pct": -12.436,
+        "sum_return_pct": 5.339
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 47,
+        "fast": 13,
+        "slow": 62,
+        "tp": 0.2929,
+        "stop": 0.1665
+      },
+      "metrics": {
+        "trades": 42,
+        "win_rate_pct": 61.905,
+        "compounded_pct": 4.438,
+        "max_drawdown_pct": -17.083,
+        "sum_return_pct": 5.684
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 39,
+        "fast": 13,
+        "slow": 74,
+        "tp": 0.4407,
+        "stop": 0.1869
+      },
+      "metrics": {
+        "trades": 40,
+        "win_rate_pct": 62.5,
+        "compounded_pct": 4.415,
+        "max_drawdown_pct": -15.265,
+        "sum_return_pct": 5.571
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 18,
+        "fast": 9,
+        "slow": 64,
+        "tp": 0.2245,
+        "stop": 0.1233
+      },
+      "metrics": {
+        "trades": 53,
+        "win_rate_pct": 62.264,
+        "compounded_pct": 4.223,
+        "max_drawdown_pct": -19.822,
+        "sum_return_pct": 5.527
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 89,
+        "fast": 26,
+        "slow": 110,
+        "tp": 0.3981,
+        "stop": 0.0183
+      },
+      "metrics": {
+        "trades": 28,
+        "win_rate_pct": 46.429,
+        "compounded_pct": 3.427,
+        "max_drawdown_pct": -7.568,
+        "sum_return_pct": 3.936
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 21,
+        "fast": 22,
+        "slow": 105,
+        "tp": 0.0444,
+        "stop": 0.1652
+      },
+      "metrics": {
+        "trades": 39,
+        "win_rate_pct": 64.103,
+        "compounded_pct": 3.398,
+        "max_drawdown_pct": -15.747,
+        "sum_return_pct": 4.605
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 43,
+        "fast": 17,
+        "slow": 46,
+        "tp": 0.4626,
+        "stop": 0.2317
+      },
+      "metrics": {
+        "trades": 43,
+        "win_rate_pct": 60.465,
+        "compounded_pct": 2.968,
+        "max_drawdown_pct": -18.25,
+        "sum_return_pct": 4.281
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 42,
+        "fast": 5,
+        "slow": 42,
+        "tp": 0.2753,
+        "stop": 0.1424
+      },
+      "metrics": {
+        "trades": 50,
+        "win_rate_pct": 56.0,
+        "compounded_pct": 2.628,
+        "max_drawdown_pct": -18.329,
+        "sum_return_pct": 3.886
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 39,
+        "fast": 19,
+        "slow": 112,
+        "tp": 0.2956,
+        "stop": 0.1111
+      },
+      "metrics": {
+        "trades": 34,
+        "win_rate_pct": 61.765,
+        "compounded_pct": 2.038,
+        "max_drawdown_pct": -15.612,
+        "sum_return_pct": 3.273
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 41,
+        "fast": 12,
+        "slow": 55,
+        "tp": 0.0493,
+        "stop": 0.2499
+      },
+      "metrics": {
+        "trades": 47,
+        "win_rate_pct": 57.447,
+        "compounded_pct": 1.343,
+        "max_drawdown_pct": -20.518,
+        "sum_return_pct": 2.845
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 43,
+        "fast": 14,
+        "slow": 28,
+        "tp": 0.3594,
+        "stop": 0.2027
+      },
+      "metrics": {
+        "trades": 49,
+        "win_rate_pct": 57.143,
+        "compounded_pct": 0.14,
+        "max_drawdown_pct": -20.069,
+        "sum_return_pct": 1.527
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 59,
+        "fast": 5,
+        "slow": 171,
+        "tp": 0.2827,
+        "stop": 0.0228
+      },
+      "metrics": {
+        "trades": 35,
+        "win_rate_pct": 51.429,
+        "compounded_pct": 0.027,
+        "max_drawdown_pct": -11.551,
+        "sum_return_pct": 0.808
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 7,
+        "fast": 25,
+        "slow": 87,
+        "tp": 0.3174,
+        "stop": 0.2336
+      },
+      "metrics": {
+        "trades": 59,
+        "win_rate_pct": 49.153,
+        "compounded_pct": -0.655,
+        "max_drawdown_pct": -19.447,
+        "sum_return_pct": 0.948
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 98,
+        "fast": 20,
+        "slow": 43,
+        "tp": 0.1889,
+        "stop": 0.0109
+      },
+      "metrics": {
+        "trades": 33,
+        "win_rate_pct": 36.364,
+        "compounded_pct": -0.979,
+        "max_drawdown_pct": -9.068,
+        "sum_return_pct": -0.64
+      }
+    },
+    {
+      "interval_min": 30,
+      "params": {
+        "lookback": 46,
+        "fast": 4,
+        "slow": 111,
+        "tp": 0.4536,
+        "stop": 0.0242
+      },
+      "metrics": {
+        "trades": 43,
+        "win_rate_pct": 53.488,
+        "compounded_pct": -2.706,
+        "max_drawdown_pct": -17.483,
+        "sum_return_pct": -1.752
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 28,
+        "fast": 4,
+        "slow": 10,
+        "tp": 0.0942,
+        "stop": 0.0213
+      },
+      "metrics": {
+        "trades": 6,
+        "win_rate_pct": 33.333,
+        "compounded_pct": 9.716,
+        "max_drawdown_pct": -4.253,
+        "sum_return_pct": 10.198
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 43,
+        "fast": 27,
+        "slow": 116,
+        "tp": 0.0208,
+        "stop": 0.1698
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 100.0,
+        "compounded_pct": 4.162,
+        "max_drawdown_pct": 0.0,
+        "sum_return_pct": 4.119
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 92,
+        "fast": 23,
+        "slow": 185,
+        "tp": 0.1081,
+        "stop": 0.171
+      },
+      "metrics": {
+        "trades": 0,
+        "win_rate_pct": 0,
+        "compounded_pct": 0,
+        "max_drawdown_pct": 0,
+        "sum_return_pct": 0
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 101,
+        "fast": 10,
+        "slow": 193,
+        "tp": 0.3153,
+        "stop": 0.1533
+      },
+      "metrics": {
+        "trades": 0,
+        "win_rate_pct": 0,
+        "compounded_pct": 0,
+        "max_drawdown_pct": 0,
+        "sum_return_pct": 0
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 107,
+        "fast": 26,
+        "slow": 132,
+        "tp": 0.4027,
+        "stop": 0.0543
+      },
+      "metrics": {
+        "trades": 0,
+        "win_rate_pct": 0,
+        "compounded_pct": 0,
+        "max_drawdown_pct": 0,
+        "sum_return_pct": 0
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 93,
+        "fast": 7,
+        "slow": 25,
+        "tp": 0.1963,
+        "stop": 0.1544
+      },
+      "metrics": {
+        "trades": 0,
+        "win_rate_pct": 0,
+        "compounded_pct": 0,
+        "max_drawdown_pct": 0,
+        "sum_return_pct": 0
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 94,
+        "fast": 27,
+        "slow": 175,
+        "tp": 0.1484,
+        "stop": 0.1593
+      },
+      "metrics": {
+        "trades": 0,
+        "win_rate_pct": 0,
+        "compounded_pct": 0,
+        "max_drawdown_pct": 0,
+        "sum_return_pct": 0
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 100,
+        "fast": 27,
+        "slow": 182,
+        "tp": 0.0849,
+        "stop": 0.0323
+      },
+      "metrics": {
+        "trades": 0,
+        "win_rate_pct": 0,
+        "compounded_pct": 0,
+        "max_drawdown_pct": 0,
+        "sum_return_pct": 0
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 116,
+        "fast": 26,
+        "slow": 134,
+        "tp": 0.3711,
+        "stop": 0.1385
+      },
+      "metrics": {
+        "trades": 0,
+        "win_rate_pct": 0,
+        "compounded_pct": 0,
+        "max_drawdown_pct": 0,
+        "sum_return_pct": 0
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 92,
+        "fast": 25,
+        "slow": 155,
+        "tp": 0.3083,
+        "stop": 0.1064
+      },
+      "metrics": {
+        "trades": 0,
+        "win_rate_pct": 0,
+        "compounded_pct": 0,
+        "max_drawdown_pct": 0,
+        "sum_return_pct": 0
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 104,
+        "fast": 30,
+        "slow": 127,
+        "tp": 0.2432,
+        "stop": 0.1892
+      },
+      "metrics": {
+        "trades": 0,
+        "win_rate_pct": 0,
+        "compounded_pct": 0,
+        "max_drawdown_pct": 0,
+        "sum_return_pct": 0
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 102,
+        "fast": 22,
+        "slow": 191,
+        "tp": 0.2513,
+        "stop": 0.0379
+      },
+      "metrics": {
+        "trades": 0,
+        "win_rate_pct": 0,
+        "compounded_pct": 0,
+        "max_drawdown_pct": 0,
+        "sum_return_pct": 0
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 101,
+        "fast": 13,
+        "slow": 51,
+        "tp": 0.1749,
+        "stop": 0.204
+      },
+      "metrics": {
+        "trades": 0,
+        "win_rate_pct": 0,
+        "compounded_pct": 0,
+        "max_drawdown_pct": 0,
+        "sum_return_pct": 0
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 98,
+        "fast": 8,
+        "slow": 28,
+        "tp": 0.0932,
+        "stop": 0.1818
+      },
+      "metrics": {
+        "trades": 0,
+        "win_rate_pct": 0,
+        "compounded_pct": 0,
+        "max_drawdown_pct": 0,
+        "sum_return_pct": 0
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 119,
+        "fast": 10,
+        "slow": 75,
+        "tp": 0.2681,
+        "stop": 0.0105
+      },
+      "metrics": {
+        "trades": 0,
+        "win_rate_pct": 0,
+        "compounded_pct": 0,
+        "max_drawdown_pct": 0,
+        "sum_return_pct": 0
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 105,
+        "fast": 19,
+        "slow": 88,
+        "tp": 0.0772,
+        "stop": 0.0262
+      },
+      "metrics": {
+        "trades": 0,
+        "win_rate_pct": 0,
+        "compounded_pct": 0,
+        "max_drawdown_pct": 0,
+        "sum_return_pct": 0
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 103,
+        "fast": 28,
+        "slow": 30,
+        "tp": 0.4112,
+        "stop": 0.2069
+      },
+      "metrics": {
+        "trades": 0,
+        "win_rate_pct": 0,
+        "compounded_pct": 0,
+        "max_drawdown_pct": 0,
+        "sum_return_pct": 0
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 99,
+        "fast": 5,
+        "slow": 123,
+        "tp": 0.2285,
+        "stop": 0.0217
+      },
+      "metrics": {
+        "trades": 0,
+        "win_rate_pct": 0,
+        "compounded_pct": 0,
+        "max_drawdown_pct": 0,
+        "sum_return_pct": 0
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 94,
+        "fast": 19,
+        "slow": 171,
+        "tp": 0.3055,
+        "stop": 0.0134
+      },
+      "metrics": {
+        "trades": 0,
+        "win_rate_pct": 0,
+        "compounded_pct": 0,
+        "max_drawdown_pct": 0,
+        "sum_return_pct": 0
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 119,
+        "fast": 7,
+        "slow": 182,
+        "tp": 0.3386,
+        "stop": 0.1651
+      },
+      "metrics": {
+        "trades": 0,
+        "win_rate_pct": 0,
+        "compounded_pct": 0,
+        "max_drawdown_pct": 0,
+        "sum_return_pct": 0
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 118,
+        "fast": 25,
+        "slow": 67,
+        "tp": 0.4802,
+        "stop": 0.0388
+      },
+      "metrics": {
+        "trades": 0,
+        "win_rate_pct": 0,
+        "compounded_pct": 0,
+        "max_drawdown_pct": 0,
+        "sum_return_pct": 0
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 93,
+        "fast": 7,
+        "slow": 65,
+        "tp": 0.1925,
+        "stop": 0.2182
+      },
+      "metrics": {
+        "trades": 0,
+        "win_rate_pct": 0,
+        "compounded_pct": 0,
+        "max_drawdown_pct": 0,
+        "sum_return_pct": 0
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 68,
+        "fast": 3,
+        "slow": 170,
+        "tp": 0.0348,
+        "stop": 0.0414
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 50.0,
+        "compounded_pct": -0.844,
+        "max_drawdown_pct": -4.159,
+        "sum_return_pct": -0.7
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 26,
+        "fast": 5,
+        "slow": 161,
+        "tp": 0.2907,
+        "stop": 0.0154
+      },
+      "metrics": {
+        "trades": 3,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -4.606,
+        "max_drawdown_pct": -3.095,
+        "sum_return_pct": -4.679
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 69,
+        "fast": 8,
+        "slow": 87,
+        "tp": 0.2981,
+        "stop": 0.0568
+      },
+      "metrics": {
+        "trades": 1,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -5.699,
+        "max_drawdown_pct": 0.0,
+        "sum_return_pct": -5.699
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 44,
+        "fast": 18,
+        "slow": 131,
+        "tp": 0.4424,
+        "stop": 0.0213
+      },
+      "metrics": {
+        "trades": 3,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -6.311,
+        "max_drawdown_pct": -4.253,
+        "sum_return_pct": -6.449
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 66,
+        "fast": 26,
+        "slow": 155,
+        "tp": 0.4493,
+        "stop": 0.0675
+      },
+      "metrics": {
+        "trades": 1,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -6.769,
+        "max_drawdown_pct": 0.0,
+        "sum_return_pct": -6.769
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 14,
+        "fast": 20,
+        "slow": 160,
+        "tp": 0.4564,
+        "stop": 0.0244
+      },
+      "metrics": {
+        "trades": 3,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -7.199,
+        "max_drawdown_pct": -4.859,
+        "sum_return_pct": -7.379
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 47,
+        "fast": 16,
+        "slow": 127,
+        "tp": 0.0273,
+        "stop": 0.0333
+      },
+      "metrics": {
+        "trades": 4,
+        "win_rate_pct": 25.0,
+        "compounded_pct": -7.269,
+        "max_drawdown_pct": -4.055,
+        "sum_return_pct": -7.339
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 59,
+        "fast": 23,
+        "slow": 199,
+        "tp": 0.0737,
+        "stop": 0.0825
+      },
+      "metrics": {
+        "trades": 1,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -8.268,
+        "max_drawdown_pct": 0.0,
+        "sum_return_pct": -8.268
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 78,
+        "fast": 14,
+        "slow": 53,
+        "tp": 0.2036,
+        "stop": 0.095
+      },
+      "metrics": {
+        "trades": 1,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -9.518,
+        "max_drawdown_pct": 0.0,
+        "sum_return_pct": -9.518
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 67,
+        "fast": 13,
+        "slow": 58,
+        "tp": 0.1292,
+        "stop": 0.1091
+      },
+      "metrics": {
+        "trades": 1,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -10.928,
+        "max_drawdown_pct": 0.0,
+        "sum_return_pct": -10.928
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 78,
+        "fast": 27,
+        "slow": 85,
+        "tp": 0.1854,
+        "stop": 0.1113
+      },
+      "metrics": {
+        "trades": 1,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -11.148,
+        "max_drawdown_pct": 0.0,
+        "sum_return_pct": -11.148
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 34,
+        "fast": 18,
+        "slow": 150,
+        "tp": 0.378,
+        "stop": 0.0598
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -11.638,
+        "max_drawdown_pct": -5.999,
+        "sum_return_pct": -11.998
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 66,
+        "fast": 23,
+        "slow": 41,
+        "tp": 0.3364,
+        "stop": 0.1253
+      },
+      "metrics": {
+        "trades": 1,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -12.547,
+        "max_drawdown_pct": 0.0,
+        "sum_return_pct": -12.547
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 70,
+        "fast": 24,
+        "slow": 133,
+        "tp": 0.4547,
+        "stop": 0.1281
+      },
+      "metrics": {
+        "trades": 1,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -12.827,
+        "max_drawdown_pct": 0.0,
+        "sum_return_pct": -12.827
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 20,
+        "fast": 23,
+        "slow": 174,
+        "tp": 0.4685,
+        "stop": 0.0684
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -13.247,
+        "max_drawdown_pct": -6.859,
+        "sum_return_pct": -13.717
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 7,
+        "fast": 10,
+        "slow": 18,
+        "tp": 0.2445,
+        "stop": 0.014
+      },
+      "metrics": {
+        "trades": 11,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -14.554,
+        "max_drawdown_pct": -13.324,
+        "sum_return_pct": -15.617
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 62,
+        "fast": 2,
+        "slow": 64,
+        "tp": 0.3145,
+        "stop": 0.22
+      },
+      "metrics": {
+        "trades": 1,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -14.823,
+        "max_drawdown_pct": 0.0,
+        "sum_return_pct": -14.823
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 81,
+        "fast": 5,
+        "slow": 62,
+        "tp": 0.0931,
+        "stop": 0.1574
+      },
+      "metrics": {
+        "trades": 1,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -15.757,
+        "max_drawdown_pct": 0.0,
+        "sum_return_pct": -15.757
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 69,
+        "fast": 3,
+        "slow": 17,
+        "tp": 0.0213,
+        "stop": 0.1802
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 50.0,
+        "compounded_pct": -16.307,
+        "max_drawdown_pct": -18.036,
+        "sum_return_pct": -15.927
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 78,
+        "fast": 7,
+        "slow": 55,
+        "tp": 0.4595,
+        "stop": 0.1665
+      },
+      "metrics": {
+        "trades": 1,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -16.667,
+        "max_drawdown_pct": 0.0,
+        "sum_return_pct": -16.667
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 33,
+        "fast": 16,
+        "slow": 65,
+        "tp": 0.3895,
+        "stop": 0.0967
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -18.438,
+        "max_drawdown_pct": -9.688,
+        "sum_return_pct": -19.376
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 22,
+        "fast": 18,
+        "slow": 189,
+        "tp": 0.4973,
+        "stop": 0.0971
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -18.51,
+        "max_drawdown_pct": -9.728,
+        "sum_return_pct": -19.456
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 40,
+        "fast": 14,
+        "slow": 90,
+        "tp": 0.1877,
+        "stop": 0.0988
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -18.816,
+        "max_drawdown_pct": -9.898,
+        "sum_return_pct": -19.796
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 11,
+        "fast": 23,
+        "slow": 105,
+        "tp": 0.1544,
+        "stop": 0.1106
+      },
+      "metrics": {
+        "trades": 4,
+        "win_rate_pct": 25.0,
+        "compounded_pct": -18.848,
+        "max_drawdown_pct": -29.688,
+        "sum_return_pct": -17.816
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 48,
+        "fast": 27,
+        "slow": 72,
+        "tp": 0.4335,
+        "stop": 0.1035
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -19.661,
+        "max_drawdown_pct": -10.368,
+        "sum_return_pct": -20.736
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 59,
+        "fast": 15,
+        "slow": 139,
+        "tp": 0.4407,
+        "stop": 0.2031
+      },
+      "metrics": {
+        "trades": 1,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -20.326,
+        "max_drawdown_pct": 0.0,
+        "sum_return_pct": -20.326
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 49,
+        "fast": 29,
+        "slow": 84,
+        "tp": 0.48,
+        "stop": 0.1106
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -20.928,
+        "max_drawdown_pct": -11.078,
+        "sum_return_pct": -22.156
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 56,
+        "fast": 10,
+        "slow": 195,
+        "tp": 0.2107,
+        "stop": 0.1177
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -22.186,
+        "max_drawdown_pct": -11.788,
+        "sum_return_pct": -23.575
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 36,
+        "fast": 20,
+        "slow": 123,
+        "tp": 0.1463,
+        "stop": 0.1191
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -22.433,
+        "max_drawdown_pct": -11.928,
+        "sum_return_pct": -23.855
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 53,
+        "fast": 24,
+        "slow": 86,
+        "tp": 0.4572,
+        "stop": 0.1217
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -22.89,
+        "max_drawdown_pct": -12.188,
+        "sum_return_pct": -24.375
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 65,
+        "fast": 16,
+        "slow": 187,
+        "tp": 0.4692,
+        "stop": 0.2321
+      },
+      "metrics": {
+        "trades": 1,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -23.225,
+        "max_drawdown_pct": 0.0,
+        "sum_return_pct": -23.225
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 83,
+        "fast": 15,
+        "slow": 87,
+        "tp": 0.0619,
+        "stop": 0.2392
+      },
+      "metrics": {
+        "trades": 1,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -23.935,
+        "max_drawdown_pct": 0.0,
+        "sum_return_pct": -23.935
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 56,
+        "fast": 3,
+        "slow": 75,
+        "tp": 0.1914,
+        "stop": 0.128
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -23.992,
+        "max_drawdown_pct": -12.817,
+        "sum_return_pct": -25.635
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 38,
+        "fast": 9,
+        "slow": 38,
+        "tp": 0.1073,
+        "stop": 0.2345
+      },
+      "metrics": {
+        "trades": 3,
+        "win_rate_pct": 33.333,
+        "compounded_pct": -24.079,
+        "max_drawdown_pct": -23.465,
+        "sum_return_pct": -23.154
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 83,
+        "fast": 23,
+        "slow": 56,
+        "tp": 0.3986,
+        "stop": 0.2412
+      },
+      "metrics": {
+        "trades": 1,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -24.135,
+        "max_drawdown_pct": 0.0,
+        "sum_return_pct": -24.135
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 66,
+        "fast": 20,
+        "slow": 41,
+        "tp": 0.292,
+        "stop": 0.2459
+      },
+      "metrics": {
+        "trades": 1,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -24.605,
+        "max_drawdown_pct": 0.0,
+        "sum_return_pct": -24.605
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 39,
+        "fast": 13,
+        "slow": 194,
+        "tp": 0.4023,
+        "stop": 0.1349
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -25.19,
+        "max_drawdown_pct": -13.507,
+        "sum_return_pct": -27.015
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 9,
+        "fast": 21,
+        "slow": 140,
+        "tp": 0.0496,
+        "stop": 0.121
+      },
+      "metrics": {
+        "trades": 5,
+        "win_rate_pct": 40.0,
+        "compounded_pct": -25.255,
+        "max_drawdown_pct": -32.126,
+        "sum_return_pct": -26.475
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 34,
+        "fast": 14,
+        "slow": 46,
+        "tp": 0.2915,
+        "stop": 0.2205
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -28.231,
+        "max_drawdown_pct": -8.76,
+        "sum_return_pct": -30.1
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 21,
+        "fast": 15,
+        "slow": 82,
+        "tp": 0.3927,
+        "stop": 0.1557
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -28.744,
+        "max_drawdown_pct": -15.587,
+        "sum_return_pct": -31.174
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 52,
+        "fast": 13,
+        "slow": 55,
+        "tp": 0.3903,
+        "stop": 0.1626
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -29.904,
+        "max_drawdown_pct": -16.277,
+        "sum_return_pct": -32.553
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 25,
+        "fast": 16,
+        "slow": 153,
+        "tp": 0.2511,
+        "stop": 0.1657
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -30.422,
+        "max_drawdown_pct": -16.587,
+        "sum_return_pct": -33.173
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 58,
+        "fast": 17,
+        "slow": 163,
+        "tp": 0.4464,
+        "stop": 0.1742
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -31.833,
+        "max_drawdown_pct": -17.437,
+        "sum_return_pct": -34.873
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 53,
+        "fast": 7,
+        "slow": 129,
+        "tp": 0.4443,
+        "stop": 0.1777
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -32.409,
+        "max_drawdown_pct": -17.786,
+        "sum_return_pct": -35.573
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 7,
+        "fast": 29,
+        "slow": 51,
+        "tp": 0.287,
+        "stop": 0.1243
+      },
+      "metrics": {
+        "trades": 3,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -32.887,
+        "max_drawdown_pct": -23.346,
+        "sum_return_pct": -37.343
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 48,
+        "fast": 12,
+        "slow": 124,
+        "tp": 0.4294,
+        "stop": 0.1938
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -35.03,
+        "max_drawdown_pct": -19.396,
+        "sum_return_pct": -38.792
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 55,
+        "fast": 8,
+        "slow": 108,
+        "tp": 0.2113,
+        "stop": 0.2177
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -35.613,
+        "max_drawdown_pct": -17.679,
+        "sum_return_pct": -39.465
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 25,
+        "fast": 19,
+        "slow": 182,
+        "tp": 0.2914,
+        "stop": 0.2239
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -39.791,
+        "max_drawdown_pct": -22.406,
+        "sum_return_pct": -44.811
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 30,
+        "fast": 29,
+        "slow": 124,
+        "tp": 0.497,
+        "stop": 0.2368
+      },
+      "metrics": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -41.776,
+        "max_drawdown_pct": -23.695,
+        "sum_return_pct": -47.391
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 12,
+        "fast": 21,
+        "slow": 192,
+        "tp": 0.4895,
+        "stop": 0.1902
+      },
+      "metrics": {
+        "trades": 3,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -46.927,
+        "max_drawdown_pct": -34.449,
+        "sum_return_pct": -57.109
+      }
+    },
+    {
+      "interval_min": 1440,
+      "params": {
+        "lookback": 12,
+        "fast": 21,
+        "slow": 68,
+        "tp": 0.3866,
+        "stop": 0.2227
+      },
+      "metrics": {
+        "trades": 3,
+        "win_rate_pct": 0.0,
+        "compounded_pct": -49.981,
+        "max_drawdown_pct": -40.502,
+        "sum_return_pct": -61.657
+      }
+    }
+  ]
+}

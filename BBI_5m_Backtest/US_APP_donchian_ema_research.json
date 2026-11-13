@@ -1,0 +1,451 @@
+{
+  "symbol": "US.APP",
+  "interval_minutes": 10,
+  "baseline": {
+    "lookback": 45,
+    "fast": 8,
+    "slow": 89,
+    "tp": 0.0638,
+    "stop": 0.0395
+  },
+  "cost_sensitivity": {
+    "0.0": {
+      "trades": 78,
+      "win_rate_pct": 58.974,
+      "sum_return_pct": 46.927,
+      "compounded_pct": 55.987,
+      "max_drawdown_pct": -10.798,
+      "profit_factor": 1.954,
+      "avg_trade_pct": 0.6016
+    },
+    "2.0": {
+      "trades": 78,
+      "win_rate_pct": 58.974,
+      "sum_return_pct": 44.012,
+      "compounded_pct": 51.528,
+      "max_drawdown_pct": -11.101,
+      "profit_factor": 1.874,
+      "avg_trade_pct": 0.5643
+    },
+    "4.0": {
+      "trades": 78,
+      "win_rate_pct": 57.692,
+      "sum_return_pct": 41.099,
+      "compounded_pct": 47.197,
+      "max_drawdown_pct": -11.402,
+      "profit_factor": 1.798,
+      "avg_trade_pct": 0.5269
+    },
+    "6.0": {
+      "trades": 78,
+      "win_rate_pct": 55.128,
+      "sum_return_pct": 38.186,
+      "compounded_pct": 42.989,
+      "max_drawdown_pct": -11.703,
+      "profit_factor": 1.724,
+      "avg_trade_pct": 0.4896
+    },
+    "8.0": {
+      "trades": 78,
+      "win_rate_pct": 55.128,
+      "sum_return_pct": 35.275,
+      "compounded_pct": 38.902,
+      "max_drawdown_pct": -12.003,
+      "profit_factor": 1.653,
+      "avg_trade_pct": 0.4522
+    },
+    "10.0": {
+      "trades": 78,
+      "win_rate_pct": 55.128,
+      "sum_return_pct": 32.365,
+      "compounded_pct": 34.931,
+      "max_drawdown_pct": -12.301,
+      "profit_factor": 1.585,
+      "avg_trade_pct": 0.4149
+    }
+  },
+  "recent_holdout_start": "2026-09-10",
+  "recent_holdout": {
+    "trades": 14,
+    "win_rate_pct": 78.571,
+    "sum_return_pct": 21.984,
+    "compounded_pct": 23.939,
+    "max_drawdown_pct": -1.823,
+    "profit_factor": 8.842,
+    "avg_trade_pct": 1.5703
+  },
+  "walk_forward": [
+    {
+      "train_start": "2026-01-02",
+      "train_end": "2026-03-02",
+      "test_start": "2026-03-03",
+      "test_end": "2026-03-22",
+      "params": {
+        "lookback": 40,
+        "fast": 7,
+        "slow": 80,
+        "tp": 0.068,
+        "stop": 0.037
+      },
+      "train": {
+        "trades": 18,
+        "win_rate_pct": 50.0,
+        "sum_return_pct": 10.674,
+        "compounded_pct": 10.66,
+        "max_drawdown_pct": -6.54,
+        "profit_factor": 1.978,
+        "avg_trade_pct": 0.593
+      },
+      "test": {
+        "trades": 3,
+        "win_rate_pct": 100.0,
+        "sum_return_pct": 5.126,
+        "compounded_pct": 5.196,
+        "max_drawdown_pct": 0.0,
+        "profit_factor": Infinity,
+        "avg_trade_pct": 1.7088
+      }
+    },
+    {
+      "train_start": "2026-01-22",
+      "train_end": "2026-03-22",
+      "test_start": "2026-03-23",
+      "test_end": "2026-04-11",
+      "params": {
+        "lookback": 40,
+        "fast": 7,
+        "slow": 80,
+        "tp": 0.068,
+        "stop": 0.037
+      },
+      "train": {
+        "trades": 17,
+        "win_rate_pct": 58.824,
+        "sum_return_pct": 12.691,
+        "compounded_pct": 12.82,
+        "max_drawdown_pct": -5.549,
+        "profit_factor": 2.123,
+        "avg_trade_pct": 0.7466
+      },
+      "test": {
+        "trades": 4,
+        "win_rate_pct": 75.0,
+        "sum_return_pct": -1.244,
+        "compounded_pct": -1.319,
+        "max_drawdown_pct": -3.719,
+        "profit_factor": 0.666,
+        "avg_trade_pct": -0.311
+      }
+    },
+    {
+      "train_start": "2026-02-11",
+      "train_end": "2026-04-11",
+      "test_start": "2026-04-12",
+      "test_end": "2026-05-01",
+      "params": {
+        "lookback": 45,
+        "fast": 8,
+        "slow": 89,
+        "tp": 0.0638,
+        "stop": 0.0395
+      },
+      "train": {
+        "trades": 15,
+        "win_rate_pct": 66.667,
+        "sum_return_pct": 12.361,
+        "compounded_pct": 12.604,
+        "max_drawdown_pct": -3.969,
+        "profit_factor": 2.505,
+        "avg_trade_pct": 0.8241
+      },
+      "test": {
+        "trades": 6,
+        "win_rate_pct": 33.333,
+        "sum_return_pct": -0.383,
+        "compounded_pct": -0.443,
+        "max_drawdown_pct": -3.108,
+        "profit_factor": 0.88,
+        "avg_trade_pct": -0.0639
+      }
+    },
+    {
+      "train_start": "2026-03-03",
+      "train_end": "2026-05-01",
+      "test_start": "2026-05-02",
+      "test_end": "2026-05-21",
+      "params": {
+        "lookback": 40,
+        "fast": 7,
+        "slow": 80,
+        "tp": 0.06,
+        "stop": 0.037
+      },
+      "train": {
+        "trades": 16,
+        "win_rate_pct": 56.25,
+        "sum_return_pct": 5.566,
+        "compounded_pct": 5.456,
+        "max_drawdown_pct": -3.719,
+        "profit_factor": 1.706,
+        "avg_trade_pct": 0.3479
+      },
+      "test": {
+        "trades": 8,
+        "win_rate_pct": 62.5,
+        "sum_return_pct": 3.223,
+        "compounded_pct": 2.896,
+        "max_drawdown_pct": -7.3,
+        "profit_factor": 1.395,
+        "avg_trade_pct": 0.4028
+      }
+    },
+    {
+      "train_start": "2026-03-23",
+      "train_end": "2026-05-21",
+      "test_start": "2026-05-22",
+      "test_end": "2026-06-10",
+      "params": {
+        "lookback": 40,
+        "fast": 7,
+        "slow": 80,
+        "tp": 0.06,
+        "stop": 0.042
+      },
+      "train": {
+        "trades": 21,
+        "win_rate_pct": 57.143,
+        "sum_return_pct": 7.427,
+        "compounded_pct": 7.134,
+        "max_drawdown_pct": -5.032,
+        "profit_factor": 1.56,
+        "avg_trade_pct": 0.3537
+      },
+      "test": {
+        "trades": 4,
+        "win_rate_pct": 75.0,
+        "sum_return_pct": 5.876,
+        "compounded_pct": 5.807,
+        "max_drawdown_pct": -2.8,
+        "profit_factor": 3.098,
+        "avg_trade_pct": 1.469
+      }
+    },
+    {
+      "train_start": "2026-04-12",
+      "train_end": "2026-06-10",
+      "test_start": "2026-06-11",
+      "test_end": "2026-06-30",
+      "params": {
+        "lookback": 40,
+        "fast": 7,
+        "slow": 80,
+        "tp": 0.06,
+        "stop": 0.042
+      },
+      "train": {
+        "trades": 20,
+        "win_rate_pct": 55.0,
+        "sum_return_pct": 7.854,
+        "compounded_pct": 7.406,
+        "max_drawdown_pct": -9.039,
+        "profit_factor": 1.491,
+        "avg_trade_pct": 0.3927
+      },
+      "test": {
+        "trades": 6,
+        "win_rate_pct": 66.667,
+        "sum_return_pct": 6.339,
+        "compounded_pct": 6.424,
+        "max_drawdown_pct": -1.077,
+        "profit_factor": 5.688,
+        "avg_trade_pct": 1.0564
+      }
+    },
+    {
+      "train_start": "2026-05-02",
+      "train_end": "2026-06-30",
+      "test_start": "2026-07-01",
+      "test_end": "2026-07-20",
+      "params": {
+        "lookback": 40,
+        "fast": 7,
+        "slow": 80,
+        "tp": 0.06,
+        "stop": 0.042
+      },
+      "train": {
+        "trades": 19,
+        "win_rate_pct": 63.158,
+        "sum_return_pct": 13.589,
+        "compounded_pct": 13.691,
+        "max_drawdown_pct": -9.039,
+        "profit_factor": 1.96,
+        "avg_trade_pct": 0.7152
+      },
+      "test": {
+        "trades": 0,
+        "win_rate_pct": 0.0,
+        "sum_return_pct": 0.0,
+        "compounded_pct": 0.0,
+        "max_drawdown_pct": 0.0,
+        "profit_factor": 0.0,
+        "avg_trade_pct": 0.0
+      }
+    },
+    {
+      "train_start": "2026-05-22",
+      "train_end": "2026-07-20",
+      "test_start": "2026-07-21",
+      "test_end": "2026-08-09",
+      "params": {
+        "lookback": 40,
+        "fast": 7,
+        "slow": 80,
+        "tp": 0.068,
+        "stop": 0.037
+      },
+      "train": {
+        "trades": 11,
+        "win_rate_pct": 72.727,
+        "sum_return_pct": 19.531,
+        "compounded_pct": 20.817,
+        "max_drawdown_pct": -3.062,
+        "profit_factor": 5.425,
+        "avg_trade_pct": 1.7755
+      },
+      "test": {
+        "trades": 4,
+        "win_rate_pct": 25.0,
+        "sum_return_pct": -4.513,
+        "compounded_pct": -4.482,
+        "max_drawdown_pct": -4.479,
+        "profit_factor": 0.159,
+        "avg_trade_pct": -1.1282
+      }
+    },
+    {
+      "train_start": "2026-06-11",
+      "train_end": "2026-08-09",
+      "test_start": "2026-08-10",
+      "test_end": "2026-08-29",
+      "params": {
+        "lookback": 50,
+        "fast": 7,
+        "slow": 80,
+        "tp": 0.068,
+        "stop": 0.037
+      },
+      "train": {
+        "trades": 10,
+        "win_rate_pct": 60.0,
+        "sum_return_pct": 7.765,
+        "compounded_pct": 7.705,
+        "max_drawdown_pct": -4.482,
+        "profit_factor": 2.376,
+        "avg_trade_pct": 0.7765
+      },
+      "test": {
+        "trades": 4,
+        "win_rate_pct": 25.0,
+        "sum_return_pct": -4.331,
+        "compounded_pct": -4.271,
+        "max_drawdown_pct": -2.798,
+        "profit_factor": 0.032,
+        "avg_trade_pct": -1.0827
+      }
+    },
+    {
+      "train_start": "2026-07-01",
+      "train_end": "2026-08-29",
+      "test_start": "2026-08-30",
+      "test_end": "2026-09-18",
+      "params": {
+        "lookback": 45,
+        "fast": 8,
+        "slow": 89,
+        "tp": 0.0638,
+        "stop": 0.0395
+      },
+      "train": {
+        "trades": 6,
+        "win_rate_pct": 16.667,
+        "sum_return_pct": -7.675,
+        "compounded_pct": -7.479,
+        "max_drawdown_pct": -6.683,
+        "profit_factor": 0.095,
+        "avg_trade_pct": -1.2792
+      },
+      "test": {
+        "trades": 5,
+        "win_rate_pct": 60.0,
+        "sum_return_pct": -1.262,
+        "compounded_pct": -1.36,
+        "max_drawdown_pct": -4.755,
+        "profit_factor": 0.736,
+        "avg_trade_pct": -0.2523
+      }
+    },
+    {
+      "train_start": "2026-07-21",
+      "train_end": "2026-09-18",
+      "test_start": "2026-09-19",
+      "test_end": "2026-10-08",
+      "params": {
+        "lookback": 45,
+        "fast": 8,
+        "slow": 89,
+        "tp": 0.0638,
+        "stop": 0.0395
+      },
+      "train": {
+        "trades": 11,
+        "win_rate_pct": 36.364,
+        "sum_return_pct": -8.937,
+        "compounded_pct": -8.737,
+        "max_drawdown_pct": -10.336,
+        "profit_factor": 0.326,
+        "avg_trade_pct": -0.8124
+      },
+      "test": {
+        "trades": 2,
+        "win_rate_pct": 0.0,
+        "sum_return_pct": -1.827,
+        "compounded_pct": -1.823,
+        "max_drawdown_pct": -0.218,
+        "profit_factor": 0.0,
+        "avg_trade_pct": -0.9133
+      }
+    },
+    {
+      "train_start": "2026-08-10",
+      "train_end": "2026-10-08",
+      "test_start": "2026-10-09",
+      "test_end": "2026-10-28",
+      "params": {
+        "lookback": 40,
+        "fast": 7,
+        "slow": 98,
+        "tp": 0.06,
+        "stop": 0.037
+      },
+      "train": {
+        "trades": 13,
+        "win_rate_pct": 38.462,
+        "sum_return_pct": -2.416,
+        "compounded_pct": -2.591,
+        "max_drawdown_pct": -6.118,
+        "profit_factor": 0.773,
+        "avg_trade_pct": -0.1858
+      },
+      "test": {
+        "trades": 2,
+        "win_rate_pct": 100.0,
+        "sum_return_pct": 2.477,
+        "compounded_pct": 2.489,
+        "max_drawdown_pct": 0.0,
+        "profit_factor": Infinity,
+        "avg_trade_pct": 1.2384
+      }
+    }
+  ]
+}

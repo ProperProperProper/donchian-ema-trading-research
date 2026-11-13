@@ -1,0 +1,22 @@
+{
+  "symbol": "US.APP",
+  "interval": "1D",
+  "bars": 172,
+  "signals": 3,
+  "metrics": {
+    "trades": 1,
+    "win_rate_pct": 100.0,
+    "compounded_pct": 7.978,
+    "max_drawdown_pct": 0.0,
+    "sum_return_pct": 7.978
+  },
+  "entry": {
+    "lookback": 45,
+    "fast_ema": 8,
+    "slow_ema": 89
+  },
+  "exit": {
+    "take_profit": 0.08,
+    "initial_stop": 0.0395
+  }
+}
